@@ -10,7 +10,6 @@ import plotly
 import os
 import plotly.express as px
 import plotly.graph_objects as go
-from PIL import Image
 import base64
 
 OK = pd.read_csv("data/final/2022_2023_CFFS_Outcomes/Data_Labelled_OK22-23_with_name.csv")
