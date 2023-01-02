@@ -326,5 +326,5 @@ def display_histogram(GHG_button, nitrogen_button, freshwater_button):
         return dcc.Graph(id="freshwater_graph", figure=fig)
 
 if __name__ ==  "__main__":
-    app.run_server()
+    app.run_server(debug=True)
 
