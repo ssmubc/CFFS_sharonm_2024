@@ -41,6 +41,9 @@ print(df)
 dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
 app = Dash(__name__, external_stylesheets=[dbc.themes.LUX, dbc_css])
 image_path = "image/ubc-logo.png"
+
+server = app.server
+
 encoded_image = base64.b64encode(open(image_path, "rb").read())
 
 app.layout = html.Div([
