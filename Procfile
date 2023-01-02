@@ -1,1 +1,1 @@
-web: gunicorn step6_Dash_App:app
+web: gunicorn step6_Dash_App:server
