@@ -2,14 +2,12 @@ import os
 path = "/Users/jennylee/CFFS-PyCharm/"
 os.chdir(path)
 
-import pandas as pd
 from generate_menu_list import *
-from data_transition_from_OC import *
-from step1_data_preprocessing import *
-from step2_data_cleaning import *
-from step3_update_and_mapping import *
-from step4_data_analysis import *
-from step5_data_labelling import *
+from notebooks.UBCFS.step1_data_preprocessing import *
+from notebooks.UBCFS.step2_data_cleaning import *
+from notebooks.UBCFS.step3_update_and_mapping import *
+from notebooks.UBCFS.step4_data_analysis import *
+from notebooks.UBCFS.step5_data_labelling import *
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -20,7 +18,7 @@ print(os.getcwd())
 # CFFS Labelling 2022-2023: Jenny Lee
 if __name__ == '__main__':
 
-    # Step 1: import all necessary data
+    # Step 1: import all necessary datsta
     print("Step 1: Importing Data begins...")
     items = import_items_list("Items")
     ingredients = import_ingredients_list("Ingredients")
@@ -37,10 +35,8 @@ if __name__ == '__main__':
     # Step 2: data cleaning & preprocessing
     print("\nStep 2: Data and Preprocessing begins...")
     Update_Conv = pd.read_csv("notebooks/data/cleaning/update/Conv_UpdateConv.csv")
-    # Update_Conv = pd.read_csv(os.path.join(os.getcwd(), "data", "cleaning", "update", "Conv_UpdateConv.csv"))
     Update_Conv = assign_multiplier(Update_Conv)
     Update_Conv.to_csv("notebooks/data/cleaning/update/Conv_UpdateConv.csv", index=False)
-    # Update_Conv.to_csv(os.path.join(os.getcwd(), "data", "cleaning", "update", "Conv_UpdateConv.csv"), index=False)
     conversions = update_conversions_list(Update_Conv, conversions)
     conversions.to_csv("notebooks/data/cleaning/Conversions_Added.csv", index=False)
     Std_Unit = pd.read_csv("notebooks/data/external/standard_conversions.csv")
@@ -169,7 +165,7 @@ if __name__ == '__main__':
                   index=False)
 
     print(final2)
-    counts = create_final_counts(final)
+    counts = create_final_counts(final2)
     all_ghg_num = counts["GHG Label Counts"].sum()
     all_num = counts["Combined Label Counts"].sum()
     sum_row = pd.Series(data={"GHG Label Counts":all_ghg_num, "Combined Label Counts": all_num},
