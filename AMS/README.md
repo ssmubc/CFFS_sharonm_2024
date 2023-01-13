@@ -6,7 +6,6 @@
 2. Explaining Workflow
 3. Final Outcome
 
-<br>
 
 ### 0. Data Structure
 <img src="image/full_KFC_burger.png" width="800" height="400">
