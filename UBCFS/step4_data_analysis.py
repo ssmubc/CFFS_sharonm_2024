@@ -10,7 +10,6 @@ def unit_conversion_for_preps(manual_prepu, conversions):
     # prep_cov.loc['Multiplier'] = prep_cov['ConvertFromQty'] / prep_cov['ConvertToQty']
     frames = [conversions, prep_cov]
     conversions = pd.concat(frames).reset_index(drop=True, inplace=False).drop_duplicates()
-    conversions.to_csv("notebooks/practice/conv_checkpoint3.csv", index=False)
     return conversions
 
 def rearrange_preps(preps):
@@ -40,7 +39,6 @@ def get_items_ghge_prep(index, row, ingredient, preps, mapping, spc_cov, convers
             str_water_fac = mapping.loc[mapping["ItemId"] == ingre, "Stress-Weighted Water Use (L/FU)"]
             Qty = float(ingres.loc[ind, "Qty"])
             Uom = ingres.loc[ind, "Uom"]
-            mapping.to_csv("notebooks/practice/mapping_checkpoint.csv", index=False)
             if ingre in spc_cov:
                 qty = spc_converter(ingre, Qty, Uom, conversions, liquid_unit, solid_unit)[0]
                 ghg += qty * float(ghge)

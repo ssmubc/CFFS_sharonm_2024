@@ -3,9 +3,9 @@ import os
 import glob
 import xml.etree.ElementTree as et
 
-path = '/Users/jennylee/CFFS-PyCharm'
+path = '/Users/jennylee/CFFS-2022-2023'
 os.chdir(path)
-filepath_list = glob.glob(os.path.join(os.getcwd(), "notebooks", "../data", "raw", "Gather 22-23*", "*.oc"))
+filepath_list = glob.glob(os.path.join(os.getcwd(), "notebooks", "data", "raw", "Gather 22-23*", "*.oc"))
 
 def import_items_list(Items_name):
     ItemId = []
@@ -36,7 +36,7 @@ def import_items_list(Items_name):
 
     Items.reset_index(drop=True, inplace=True)
 
-    path = os.path.join(os.getcwd(), "notebooks", "../data", "preprocessed", f"{Items_name}_List.csv")
+    path = os.path.join(os.getcwd(), "notebooks", "data", "preprocessed", f"{Items_name}_List.csv")
     Items.to_csv(path, index=False, header=True)
     return Items
 
@@ -66,7 +66,7 @@ def import_ingredients_list(Ingredients_name):
 
     Ingredients.reset_index(drop=True, inplace=True)
 
-    path = os.path.join(os.getcwd(), "notebooks", "../data", "preprocessed", f"{Ingredients_name}_List.csv")
+    path = os.path.join(os.getcwd(), "notebooks", "data", "preprocessed", f"{Ingredients_name}_List.csv")
     Ingredients.to_csv(path, index=False, header=True)
     return Ingredients
 
@@ -94,7 +94,7 @@ def import_preps_list(Preps_name):
 
     Preps.reset_index(drop=True, inplace=True)
 
-    path = os.path.join(os.getcwd(), "notebooks", "../data", "preprocessed", f"{Preps_name}_List.csv")
+    path = os.path.join(os.getcwd(), "notebooks", "data", "preprocessed", f"{Preps_name}_List.csv")
     Preps.to_csv(path, index=False, header=True)
     return Preps
 
@@ -118,7 +118,7 @@ def import_products_list(Products_name):
     Products.reset_index(drop=True, inplace=True)
     Products.drop_duplicates(subset=["ProdId"], inplace=True)
 
-    path = os.path.join(os.getcwd(), "notebooks", "../data", "preprocessed", f"{Products_name}_List.csv")
+    path = os.path.join(os.getcwd(), "notebooks", "data", "preprocessed", f"{Products_name}_List.csv")
     Products.to_csv(path, index=False, header=True)
     return Products
 
@@ -150,7 +150,7 @@ def import_conversions_list(Conversions_name):
 
     Conversions.reset_index(drop=True, inplace=True)
 
-    path = os.path.join(os.getcwd(), "notebooks", "../data", "preprocessed", f"{Conversions_name}_List.csv")
+    path = os.path.join(os.getcwd(), "notebooks", "data", "preprocessed", f"{Conversions_name}_List.csv")
     Conversions.to_csv(path, index=False, header=True)
     return Conversions
 

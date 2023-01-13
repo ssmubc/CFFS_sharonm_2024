@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 
-from data_transition_from_OC import *
 
 Std_Unit = pd.read_csv("notebooks/data/external/standard_conversions.csv")
 

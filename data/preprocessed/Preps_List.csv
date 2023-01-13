@@ -1,0 +1,744 @@
+PrepId,Description,PakQty,PakUOM,InventoryGroup
+P-27317,BATCH|3 Bean Vegetable Chili,21.000,Kg,PREP
+P-56699,BATCH|Cauliflower Wings|Baked,1.000,Kg,
+P-64163,Batch|Chicken Burger|Shoyu,7.650,Kg,PREP
+P-26333,BATCH|Citrus Herb Aioli,3.000,L,PREP
+P-53598,BATCH|Coleslaw mix,1.500,Kg,
+P-56398,BATCH|Guacamole,4.500,Kg,PREP
+P-26075,BATCH|Jalapeno Cilantro Slaw,5.000,Kg,PREP
+P-56700,BATTER|Cauliflower Wings,1.000,L,
+P-15353,BATTER|Tempura,5.000,L,PREP
+P-64865,big chicken wing|GRL,9.900,Kg,
+P-49760,BLANCHED|Sprouts Spinach,0.200,Kg,
+P-45062,BREADING|Chick Wings|GFree,7.300,Kg,PREP
+P-51231,BURGER|Sets|basic,275.000,each,
+P-46863,BUTTER|Clarified,0.750,Kg,
+P-26077,BUTTER|Garlic|Good,2.268,Kg,PREP
+P-24750,CHOPPED|Cilantro,0.500,Kg,
+P-53735,CHOPPED|pickle,900.000,g,
+P-55099,COOKED|6 oz Burger Patty,1.000,PTN,
+P-34084,COOKED|Bacon,0.020,Kg,PREP
+P-51508,COOKED|Bacon|(2) Slice,2.000,slice,
+P-56910,COOKED|burger blend|GRL,1.000,PTN,
+P-46545,COOKED|Cajun Chicken,17.000,Kg,PREP
+P-51130,COOKED|Chicken Thigh|Boneless,140.000,g,PREP
+P-56717,COOKED|Chicken thigh|Burger,140.000,g,
+P-50862,COOKED|Turkey Roast|SL,22.500,Kg,PREP
+P-64696,COOKED|Turkey|Sliced|50g,50.000,g,
+P-46546,CRUMBLED|Feta,2.900,Kg,
+P-41095,"DICED|Celery|1/4""",13.608,Kg,
+P-10115,DICED|Cucumber,6.000,Kg,
+P-9741,DICED|Green Onion|1/8,1.000,Kg,
+P-50839,DICED|Green Pepper,800.000,g,
+P-9768,DICED|GreenPepper|1/4 ,0.500,lb,
+P-50552,DICED|Onion Yellow,23.000,lb,
+P-43440,"DICED|Red Onion 1/4""",11.010,Kg,PREP
+P-57499,DICED|Red Onion 1/8,11.000,Kg,PREP
+P-50837,DICED|Red Pepper,800.000,g,
+P-9765,"DICED|Red Pepper|1/4""",1.000,Kg,
+P-44429,"DICED|Roma Tomato|1/4""",1.000,Kg,PREP
+P-38556,"DICED|Yellow Onion|1/4""",11.400,Kg,
+P-55135,DRAINED|Jackfruit,7.200,Kg,
+P-22250,DRAINED|Jalapeno Sliced,2.060,Kg,
+P-32663,DRAINED|Kalamata Olives,2.000,Kg,ZDONT USE OK - PREP
+P-35273,DRAINED|Pickle Spear,11.400,Kg,PREP
+P-26515,DRESSING|Asian Slaw,3.500,L,PREP
+P-26048,DRESSING|Balsamic Vinny|FF,4.000,L,CK - FOOD
+P-26074,DRESSING|Cilantro Slaw ,5.000,L,PREP
+P-26058,DRESSING|Citrus Oil,1.000,L,PREP
+P-44793,FLX|Kuterra Salmon Yield,0.750,lb,PREP
+P-49267,FRITTER|Cod|Battered,1.000,Kg,
+P-41021,Grill|Gravy Beef,20.000,L,PREP
+P-51965,GRL|Cheese Curd|Portion,60.000,g,
+P-44587,GRL|FRIED|Egg,1.000,ea,
+P-36090,GRL|Roasted Shallot Mayo,2.000,L,PREP
+P-36141,MARINATED|Marinated Portobella,1.814,Kg,PREP
+P-46614,MIX|Ranch|Dry,520.000,g,
+P-26019,MIX|Salt and Pepper,1225.000,g,ZDONT USE OK - PREP
+P-18907,MIX|Salt&Pepper,1225.000,g,
+P-56492,MIX|Tuna Salad,570.000,g,
+P-50778,PICKLED|Cucumber|Slices,1.950,Kg,PREP
+P-44651,PICKLED|Farm Veg,1.500,Kg,PREP
+P-25761,PICKLED|Red Onion,2.267,Kg,PREP
+P-56933,PORTION|Kimchi,30.000,g,
+P-56716,PORTION|Salmon kuterra|Burger,100.000,g,
+P-64878,PREP|Burger patty|TMRW,120.000,g,
+P-50583,PREP|Capers|chopped,450.000,g,
+P-50967,PREP|Carrot Noodles|,1.000,Kg,
+P-48495,PREP|Cilantro|Minced,100.000,g,
+P-53618,PREP|Coleslaw mixed|,1.000,Kg,
+P-14069,PREP|Egg Liquid mix|Egg wash,1.000,L,
+P-7444,PREP|Garlic Puree,4.000,Kg,PREP
+P-9849,PREP|Gravy|Poutine,4.000,L,PREP
+P-55150,PREP|Greek salad|Feta,0.250,Kg,
+P-10113,PREP|Green Onion|Slice,1.000,Kg,
+P-53367,PREP|Jerk Jackfruit,12.000,Kg,
+P-53366,PREP|Jerk Marinade,5.000,Kg,
+P-57093,PREP|Large Diced|Cucumber,275.000,g,
+P-46865,PREP|Lemon|slices,78.000,g,
+P-65353,PREP|Oyster mushroom|CRUNCH,750.000,g,
+P-42499,PREP|Pickle Juice,1.000,L,
+P-50584,PREP|Pickle|Chopped,1.000,Kg,
+P-6605,PREP|Pureed Garlic|USE ME,2.500,Kg,PREP
+P-46637,PREP|Sauteed Mushrooms|GRL,2.000,Kg,PREP
+P-65354,PREP|sauteed oyster mushroom ,1.000,Kg,
+P-54676,PREP|Sesame Spinach & Sprouts,250.000,g,
+P-46869,PREP|Shallot Brunoise,0.850,Kg,
+P-40584,PREP|Shallot Crispy,9.000,Kg,PREP
+P-53620,PREP|Slice Onion white,1.500,Kg,
+P-46862,PREP|Slice|Roma,20.000,slice,PREP
+P-9781,PREP|Tomato Chopped|large,0.454,Kg,
+P-9778,PREP|Tomato|Processed,0.720,Kg,
+P-10496,PUREE|Ginger|Kg - FT,3.270,Kg,PREP
+P-34880,PUREE|Ginger|OK - KG,4.800,Kg,PREP
+P-36089,PUREE|Shallot|Roasted,2.268,Kg,PREP
+P-9838,SALAD|Asian Slaw,4.750,Kg,
+P-35880,SALAD|Carrot & Beet Slaw,2.268,Kg,PREP
+P-26069,SALAD|Citrus Scented Arugula,15.000,g,
+P-26062,SALSA|Pico de Gallo,30.000,Kg,PREP
+P-12112,SAUCE|Chipotle BBQ,11.000,L,PREP
+P-26067,SAUCE|Chipotle Cherry BBQ,13.000,L,PREP
+P-32244,SAUCE|Chipotle Mayo|GRL,1.000,L,PREP
+P-56455,SAUCE|Grainy Mustard Mayo,5.000,L,
+P-36640,SAUCE|Honey Mustard,1.000,L,PREP
+P-48494,SAUCE|Hot sauce|cilantro,0.930,L,
+P-36092,SAUCE|Mayo|Gorganzola,7.500,L,PREP
+P-47148,SAUCE|Mayo|Olive soy truffle,1.750,L,PREP
+P-64699,SAUCE|mayo|Pickle ,1.000,L,PREP
+P-35271,SAUCE|Mayo|Roasted Garlic,4.000,Kg,PREP
+P-7565,SAUCE|Mayo|Sambal Lime,4.200,L,PREP
+P-35251,SAUCE|Pesto|Arugula,0.769,L,PREP
+P-46613,SAUCE|Ranch,5.000,L,PREP
+P-53238,SAUCE|Roasted Pineapple,6.000,L,
+P-62383,SAUCE|Spicy BBQ,1.250,L,
+P-47684,SAUCE|Sweet Chili|GRL,0.075,L,
+P-33555,SAUCE|Tartar|GRL,5.000,L,PREP
+P-26086,SAUCE|Teriyaki,17.000,L,PREP
+P-35848,SAUCE|Tzatziki Sauce,3.000,L,PREP
+P-62434,SAUCES|chicken strips|ratio,1.000,srvg,
+P-46864,SHRED|Iceberg Lettuce,600.000,g,
+P-9714,SHREDDED|Carrot Jumbo,0.900,Kg,
+P-26633,SHREDDED|Lettuce|Iceberg,3.402,Kg,PREP
+P-56136,SIDE|Franks|Sauce,35.000,ml,
+P-18318,SLICED|Green Onion,160.000,g,
+P-44475,SLICED|Jalepeno|1/8th,214.000,g,FOOD - GROCERY
+P-58359,SLICED|Mushroom Foodservice,10.000,lb,
+P-35258,SLICED|Red onion,11.010,Kg,PREP
+P-50488,SLICED|Smoked Meat,3.960,Kg,
+P-9779,SLICED|Tomato,768.000,slice,
+P-50495,SLURRY|Cornstarch,2.000,L,
+P-44913,SMASHED|Chunky Avocado,1.600,Kg,PREP
+P-51230,WINGS|Sauce Mix,1.000,srvg,
+P-51535,YIELD|70%Jalapeno|Processed,700.000,g,
+P-49552,YIELD|Bacon Portion|2 slices,20.000,g,
+P-46076,YIELD|Bacon|COOKED,1.750,Kg,PREP
+P-33869,YIELD|Banana Pepper|Drained,1.640,Kg,MISC.
+P-9851,YIELD|Beets,7.484,Kg,
+P-51992,YIELD|Bread|Sourdough cheeky,16.000,slice,
+P-22247,YIELD|Capers Drained,1020.000,g,
+P-9713,YIELD|Carrot Jumbo|Processed,19.300,Kg,
+P-19208,YIELD|Carrots Raw,8.200,Kg,
+P-20248,YIELD|Cauliflower,9.000,Kg,
+P-44797,YIELD|Chicken Breast|Cooked,0.900,Kg,PREP
+P-45255,YIELD|Chicken Strips,70.000,piece,
+P-44728,YIELD|Chopped Parsley,45.000,g,
+P-26514,YIELD|Cilantro|Herb,55.000,g,
+P-21077,YIELD|Cucumber Processed,3.800,Kg,
+P-57150,YIELD|Dill Fresh BC,0.900,Kg,
+P-44916,YIELD|Dill Yield,0.800,Kg,
+P-44652,YIELD|Drained Pickle,11.400,Kg,PREP
+P-56952,YIELD|Drained Tuna,1.880,Kg,
+P-45230,YIELD|Fries|GRL,1.600,Kg,
+P-9710,YIELD|Green cabbage,40.000,lb,PREP
+P-34293,YIELD|Green Cabbage|shredded,20.000,Kg,
+P-48933,YIELD|Green onion|Fresh,5.700,Kg,
+P-9734,YIELD|Green Peppers,20.320,lb,PREP
+P-61821,YIELD|Ham|1 whole ham,15.500,Kg,PREP
+P-50853,YIELD|hardbite Chips|Crunch,475.000,g,
+P-45047,YIELD|Herb|Basil,0.500,Kg,
+P-52036,YIELD|Herb|Thyme,500.000,g,
+P-62251,YIELD|Iceberg lettuce,74.000,g,
+P-50429,YIELD|Italian Parsley|Herb,450.000,g,PREP
+P-9712,YIELD|Red Cabbage,40.000,lb,PREP
+P-19175,YIELD|Red Onion,1.600,Kg,PREP
+P-18746,YIELD|Red Pepper|Fresh,8.300,Kg,PREP
+P-50587,YIELD|Roma Tomato,9.700,Kg,
+P-57024,YIELD|Sage|Herb,675.000,g,
+P-35712,YIELD|Sliced Roma Tomato,400.000,g,PREP
+P-50676,YIELD|Thyme,300.000,g,
+P-62250,YIELD|Yam Fries|GRL,1.600,Kg,
+P-24452,YIELD|Yellow Onion,0.900,lb,
+P-55682,BAKED|Beans|FF,10.000,Kg,PREP
+P-44643,BATCH|Hashbrown|GRL,2.000,Kg,
+P-61843,BNO|Burrito Vegetables|VEGAN,0.500,Kg,
+P-50725,BREAD|Focaccia|Portion ,32.000,ea,PREP
+P-50535,BRINE|Pork|Liquid,43.000,L,
+P-51131,BRINED|Pork Butt|Marinated,8.000,Kg,
+P-50739,COMPOTE|Apple Cinnamon,2.500,L,PREP
+P-64884,Compote|blackberry|,7.000,Kg,
+P-50337,COMPOTE|Peach Rosemary,5.500,L,
+P-58949,COMPOTE|Strawberry,3.268,L,PREP
+P-50231,COOKED|Asparagus,0.050,Kg,
+P-26068,COOKED|Caramelized Onion,1.200,Kg,PREP
+P-44592,COOKED|Chorizo Grind|GRL,3.500,Kg,PREP
+P-56778,COOKED|Cremini mushroom|,0.750,Kg,
+P-65937,COOKED|Crispy Chicken thigh,4.100,Kg,
+P-46911,COOKED|Crispy Yam Chips,3.500,Kg,
+P-37297,COOKED|Poached Egg,1.000,each,
+P-50287,COOKED|Quinoa and Kale|SL,10.000,Kg,
+P-50288,COOKED|Quinoa|SL,10.000,Kg,
+P-6975,COOKED|Rice|Whole Grain,9.000,Kg,
+P-44737,COOKED|spinach|creamed,1.250,Kg,PREP
+P-9857,COOKED|Sweet Potato ,15.876,Kg,
+P-9738,DICED|Green Onion|1/4,1.000,Kg,
+P-9746,DICED|Jumbo Onion|1/4,1.000,lb,
+P-39167,"DICED|Yellow Onion|3/4""",11.010,Kg,
+P-69444,EGG|Just egg scramble,0.850,Kg,ZDONT USE OK - PREP
+P-26055,EGG|Scrambled,0.850,Kg,ZDONT USE OK - PREP
+P-26057,FRIED|Sunny/Overeasy Egg,1.000,ea,ZDONT USE OK - PREP
+P-52042,FRIED|Tofu,0.900,Kg,
+P-51086,GRL|English muffin|Prep,6.000,CT,
+P-28262,GRL|Mayo Chimichurri,4.500,L,PREP
+P-58403,HASH|Squash&apple tempeh hash ,1.750,Kg,
+P-50744,MAYO|Charred Shallot,6.200,L,
+P-28255,MAYO|Siracha|GYZ,4.200,L,PREP
+P-50154,MIX|Pancake Batter|GRL,5.000,L,
+P-25993,MIX|Salt and Pepper - FT,6000.000,g,
+P-7139,OIL|Lemon,2.000,L,
+P-34534,PREP|Basil Leaf,10.000,oz,
+P-50505,PREP|Buttermilk Pancakes|2,2.000,each,
+P-52943,PREP|Cilantro|Sprig,50.000,g,
+P-44392,PREP|Eggs|poached,8.000,each,PREP
+P-9745,PREP|Jumbo Onion,45.600,lb,
+P-66113,PREP|Peeled Sweet Potato,2.000,Kg,
+P-8205,PREP|Pull pork|COOKED,5.600,Kg,PREP
+P-41573,PREP|Rice|Ancho Mixed,8.000,Kg,PREP
+P-51382,PREP|Roasted Tomato Roma|side,44.000,each,
+P-44649,PREP|Squash Roasted|Bowl,8.750,Kg,PREP
+P-44335,PREP|White Bean Burrito Base,10.400,Kg,PREP
+P-26020,PUREE|Garlic|Kg - FT,2.500,Kg,PREP
+P-50289,ROASTED|Pumpkin seed,100.000,g,
+P-8202,RUB|Pulled Pork,400.000,g,
+P-50720,SALSA|Mango Salsa|CAL,3.000,Kg,
+P-26140,SALSA|Roasted Tomatillo,1.474,Kg,PREP
+P-9519,SAUCE|Chimichurri|SL,4.000,L,PREP
+P-34892,SAUCE|Hollandaise|GRL,4.000,L,PREP
+P-47839,SAUCE|Prep|Blueberry Compote,2.200,L,PREP
+P-68106,SAUCE|rasberry compote|GRL,5.000,Kg,PREP
+P-26205,SAUTEED|Mushroom,1.124,Kg,PREP
+P-51242,SHAVED|Fennel|YIELD,4.000,Kg,
+P-44506,SLICED|Avocado|Quarter,4.000,each,
+P-47541,SLURRY|Corn starch,1.750,L,
+P-41572,SPICEMIX|Ancho Rice,1.000,Kg,PREP
+P-32661,STOCK|Veg from Conc.,31.100,L,ZDONT USE OK - PREP
+P-50543,TOSSED|Balsamic Basil Tomato,0.500,Kg,
+P-32739,WHIPPED|CoconutCream,3.100,L,PREP
+P-26557,YIELD|Asparagus,0.700,lb,
+P-50636,YIELD|Banana|Peeled,650.000,g,
+P-50966,YIELD|Cherry Tomato Cut,1.000,Kg,
+P-48606,YIELD|Chicken Thigh|Stirfry,1.400,Kg,PREP
+P-57213,YIELD|Granny Smith Apple,0.800,lb,
+P-44896,YIELD|Herb|Parsley,0.500,Kg,
+P-44964,YIELD|Kale,300.000,g,
+P-20239,YIELD|Kale Processed,7.400,Kg,
+P-50695,YIELD|Lettuce Green Leaf,8.500,lb,
+P-51536,YIELD|Oregano Fresh,325.000,g,
+P-56921,YIELD|Poblano,825.000,g,
+P-56290,YIELD|Red Pepper,363.200,g,
+P-51537,YIELD|Sage|Herb,0.650,Kg,
+P-58226,YIELD|Squash Butternut,1.600,Kg,
+P-56923,YIELD|Tomatillio,825.000,g,
+P-55945,BATCH|Chaat Salad,1.500,Kg,
+P-56698,BATCH|Tofu Lardons,1.000,Kg,
+P-56763,BATCH|Vegan Blanco sauce|MC,0.750,L,
+P-50500,CHIFFONADE|Basil,190.000,g,
+P-26913,COOKED|Baked Acorn Squash|,0.800,Kg,
+P-45118,COOKED|Beets|Roasted|SL,4.750,Kg,PREP
+P-9852,"COOKED|Butternut Squash|3/4""",1.700,Kg,
+P-55260,COOKED|Coconut steamed/ rice,7.500,Kg,PREP
+P-50921,COOKED|Crispy Chickpea,2.600,Kg,
+P-50870,COOKED|Curry steamed potato|SL,1.000,Kg,
+P-50892,COOKED|Kale|wilted|SL,1.800,Kg,
+P-47828,COOKED|Pasta|Penne WW,9.072,Kg,PREP
+P-26216,COOKED|Pasta|Penne|WW,2.900,Kg,PREP
+P-50497,COOKED|Pasta|Spag|WW,4.000,Kg,PREP
+P-7736,COOKED|Quinoa,5.400,Kg,PREP
+P-50872,COOKED|Quinoa Kale,0.110,Kg,
+P-26143,COOKED|Rice|Brown Basmati,4.536,Kg,PREP
+P-41300,COOKED|Rice|Brown Calrose,2.500,Kg,PREP
+P-50883,COOKED|Rice|Sushi,1.000,Kg,
+P-50713,COOKED|Roasted Carrots ubc|SL,0.800,Kg,
+P-26390,COOKED|Soba Noodles,4.536,Kg,PREP
+P-35337,COOKED|Soft Polenta,2.150,Kg,ZDONT USE OK - PREP
+P-35689,COOKED|Sorghum,3.280,Kg,PREP
+P-54792,COOKED|spinach wilted|DEL,0.500,Kg,
+P-57372,COOKED|Steamed potato,9.000,Kg,
+P-26884,COOKED|Whole Grain Brown Rice,4.000,Kg,
+P-26401,CRISPY|Chickpeas,2.750,Kg,ZDONT USE OK - PREP
+P-41094,"DICED|Carrot|1/4""",11.170,Kg,
+P-9735,DICED|Celery|1/4,0.454,Kg,
+P-51244,DICED|Cucumber,850.000,g,
+P-43962,"DICED|Cucumber|1/4""",3.300,Kg,PREP
+P-64015,DICED|Eggplant|Prep,0.700,Kg,
+P-50692,DICED|Fry tofu,0.100,Kg,
+P-9740,"DICED|Green Onion|3/4""",1.000,Kg,
+P-9769,DICED|GreenPepper|3/4,1.000,lb,
+P-50550,DICED|Onion Red,23.000,lb,
+P-55960,DICED|Potato(small),1.000,Kg,
+P-38515,"DICED|Red Onion 3/4""",11.010,Kg,PREP
+P-9767,DICED|Red Pepper|3/4,1.000,Kg,
+P-9783,DICED|Tomato Diced|1/8,1.000,lb,
+P-9784,"DICED|Tomato|3/4""",0.454,Kg,
+P-9757,DICED|Zucchini|1/4,1.000,lb,
+P-45194,"DICED|Zucchini|3/4""",1.000,Kg,PREP
+P-50802,DRAINED|Artichoke hearts,2.000,Kg,
+P-36504,DRAINED|Black Bean,1.740,Kg,
+P-31957,DRAINED|Black Beans,1.740,Kg,ZDONT USE OK - PREP
+P-38637,DRAINED|Caper,1.200,Kg,
+P-44790,DRAINED|Chickpea,0.800,L,
+P-28989,DRAINED|Chickpeas,1.800,Kg,PREP
+P-7635,DRAINED|Turtle Black Beans,1.740,Kg,
+P-26383,DRESSING|Cumin Lime,3.500,L,PREP
+P-36571,DRESSING|Lemon Mint,20.000,L,PREP
+P-26053,DRESSING|Lemon Tahini ,3.700,L,PREP
+P-58413,DRESSING|Maple rasberry,1.000,L,
+P-47361,DRESSING|Vin|Lemon,4.000,L,PREP
+P-47018,FF|Risotto|Veg,15.000,L,
+P-44083,FLEX|Tamarind Chutney,1.000,L,
+P-55548,FRIED|Corn Tortilla Strips,0.500,Kg,ZDONT USE OK - PREP
+P-47550,GARNISH|cheese & parsley,16.000,g,
+P-43583,GARNISH|Crispy Shallot,1000.000,g,PREP
+P-52620,GARNISH|Lime Mini Wedge 1/8,8.000,piece,
+P-47377,GARNISH|Parsley|Sprig,90.000,g,
+P-43346,GARNISHlFried Onion,0.450,Kg,
+P-64393,GreekPulledOysterMush|popRS,5.000,Kg,
+P-44497,GRILL|Scallion Bottoms,6.000,each,
+P-51582,JULIENNE|Carrot,10.500,Kg,PREP
+P-35255,JULIENNE|Cucumber,330.000,g,FOOD - GROCERY
+P-54697,LEMON|Wedge 1/6,6.000,each,PREP
+P-26385,MARINATED|Kale,1.200,Kg,PREP
+P-47418,MIX|Cheese,2.000,Kg,PREP
+P-57007,MIX|Potato blend|FP&UBC|SL,4.000,Kg,
+P-53003,MIX|salad|UBC green and FP ,12.500,Kg,
+P-47824,MIX|Trinity|Gar.Gin.Shal. ,2.000,Kg,
+P-35460,MIXED|Sorghum Tabbouleh,2.800,Kg,PREP
+P-26381,OIL|Garlic Chili,4.000,L,PREP
+P-41468,PICKLE|Base Totem,15.000,L,PREP
+P-43341,PICKLE|Cabbage,8.000,Kg,FEAST
+P-50677,PICKLE|Cucumber,5.000,Kg,
+P-50683,PICKLED|Carrots,0.500,Kg,PREP
+P-26481,POACHED|Egg|Soft,1.000,ea,ZDONT USE OK - PREP
+P-54603,Pop|Green Rice|Ed.,4.000,Kg,
+P-54606,Pop|Ratatouille|Ed.,6.679,Kg,PREP
+P-9722,PREP Celery Processed,49.500,lb,
+P-9790,PREP Daikon Carrot Slaw,10.000,lb,
+P-50721,PREP|Acorn Squash blend|SL,2.000,Kg,
+P-47826,PREP|Atichoke|CHOPPED|TST,2.000,Kg,
+P-56646,PREP|Beans|cooked|,840.000,g,
+P-56645,PREP|Beans|soaked|,2.250,L,PREP
+P-46639,PREP|Brown rice|FF Bowls,5.000,Kg,
+P-41913,PREP|chili oil|FLX,4.000,L,FEAST
+P-57067,PREP|Cracked peppercorn,450.000,g,
+P-56422,PREP|Fajita Veg ,2.000,Kg,
+P-48489,PREP|Garlic Confit,1.000,Kg,PREP
+P-57236,PREP|goat cheese|crumbled,1.000,Kg,
+P-9733,PREP|Green Onion,3.946,Kg,
+P-50774,PREP|Herb Mix|SL,500.000,g,
+P-8372,PREP|Hummus|PV,6.600,L,PREP
+P-46870,PREP|Lemon Zest|YIELD,1.500,g,
+P-46515,PREP|Lime zest|YIELD,1.500,g,
+P-44585,PREP|Lime|WEDGE|6gram,45.000,g,
+P-57227,PREP|Mirepoix,4.000,Kg,
+P-40591,PREP|Miso Eggplant,10.000,Kg,
+P-47108,PREP|Mushroom duxell,3.750,Kg,
+P-48493,PREP|Mushroom mix for rizo|FF,1.500,Kg,
+P-55647,PREP|Overnight Oats|FF,6.000,Kg,PREP
+P-10241,PREP|Red Pepper|Julienne,1.000,Kg,
+P-46519,PREP|ricotta|lime zest,0.850,Kg,
+P-44494,PREP|Shitake&Garlic sautee,1.500,Kg,
+P-53617,PREP|Small Dice|Red onion,1.000,Kg,
+P-47331,PREP|thyme|CHOPPED,200.000,g,
+P-53277,PREP|Veg Stock,10.300,L,
+P-40602,PREP|WW Spaghetti|Cooked,40.000,Kg,
+P-44811,ROASTED|Carrot|Prep,4.500,Kg,
+P-36648,ROASTED|Cinnamon Apple,2.000,Kg,PREP
+P-44633,ROASTED|Corn|,1.800,Kg,
+P-53995,ROASTED|Mushroom|Crimini,3.750,Kg,
+P-26382,ROASTED|Sweet Potato Hash,1.700,Kg,PREP
+P-53993,ROASTED|Zucchini,4.500,Kg,
+P-26164,RUB|UBC House,6.750,Kg,PREP
+P-32800,SALAD|Curried Chickpea ,22.000,Kg,PREP
+P-44760,SALAD|Seaweed|Ponzu ,3.000,Kg,PREP
+P-65878,SALAD|Spinach & Vinaigrette,1.000,Kg,
+P-35338,SALSA|Verde,550.000,g,PREP
+P-8196,SAUCE|Alfredo.,19.000,L,PREP
+P-50772,SAUCE|Arugula Pesto|SL,0.769,L,PREP
+P-36566,SAUCE|Avocado Spinach,48.000,L,PREP
+P-8166,SAUCE|Basil Tomato,13.000,L,PREP
+P-54204,SAUCE|Bibimbap Sauce,75.000,ml,PREP
+P-65941,SAUCE|chili miso,1.500,L,
+P-30796,SAUCE|Citrus Mayo,5.750,L,PREP
+P-56855,SAUCE|Creamy Brussel Sprout,0.500,L,PREP
+P-55419,SAUCE|Curry Red,20.000,L,PREP
+P-43918,SAUCE|Dobanjiang ,4.000,L,PREP
+P-33438,SAUCE|Hummus,15.000,L,PREP
+P-56777,SAUCE|Hummus|Basil,1.700,Kg,PREP
+P-28994,SAUCE|Hummus|OK,2.000,Kg,PREP
+P-56853,SAUCE|Parsley Pesto,200.000,g,
+P-43674,SAUCE|Ponzu,250.000,ml,PREP
+P-8164,SAUCE|Primavera,16.000,L,
+P-51922,SAUCE|Puttanesca,25.000,L,PREP
+P-41547,SAUCE|Salsa Verde,30.000,L,PREP
+P-44781,Sauce|Salsa Verde|SL,0.350,L,PREP
+P-56687,SAUCE|Shakshuka|VEG,1.700,Kg,PREP
+P-6888,SAUCE|Tomato Sauce Base,44.000,L,PREP
+P-56540,SAUTE|Korean Spinach,0.350,Kg,
+P-50689,SAUTE|Zucchini,100.000,g,
+P-35733,SEASONING|Sesame & Nori,150.000,g,PREP
+P-50881,SEASONING|Sushi,0.100,L,PREP
+P-54344,SESAME SEEDS|Toasted,3.000,L,
+P-54556,SIDE|Garlic Flatbread,24.000,slice,
+P-42425,SLICE|Cucumber|1/8,470.000,g,PREP
+P-34298,"SLICED|1/8"" Green Cabbage",18.000,Kg,PREP
+P-51510,SLICED|Avocado|1/4ea,4.000,PTN,
+P-39057,SLICED|Green Onion v1,150.000,g,PREP
+P-50784,SMASHED|Avocado,2.500,L,
+P-32809,SPICE|Chickpea,1.000,Kg,ZDONT USE OK - PREP
+P-44082,SPICEMIX|Chaat Masala,0.860,Kg,FEAST
+P-26021,STEAMED|Quinoa,3.300,Kg,PREP
+P-26090,STEAMED|Rice|Brown,4.500,Kg,PREP
+P-68981,STOCK|dashi|no bonito|GZA,14.000,L,PREP
+P-26497,TOASTED|Walnuts,950.000,g,PREP
+P-55555,TP - PREP Ginger Puree,5.000,L,PREP
+P-43737,VEG|Soft Boiled Egg,20.000,each,FOOD - GROCERY
+P-7341,Water,9.000,Kg,PREP
+P-62279,WHIPPED|Coconut Cream|bananana,3.100,L,PREP
+P-36505,YIELD|Chickpeas|Can,1.800,Kg,
+P-9774,YIELD|Eggplant|FLX,12.270,Kg,
+P-57146,YIELD|Green Pepper,8.300,Kg,
+P-45121,YIELD|Green Pepper,0.800,Kg,
+P-45053,YIELD|Herb|Mint,600.000,g,
+P-13881,YIELD|Kale,0.800,Kg,
+P-57183,YIELD|Lemon,330.000,g,
+P-46492,YIELD|Mint|Herb,0.600,Kg,
+P-50567,YIELD|Parsley,0.408,Kg,
+P-57371,YIELD|Peeled UBC potato,4.500,Kg,
+P-9854,YIELD|Radish,19.051,Kg,
+P-44901,YIELD|Rosemary Fresh|Herb,0.650,Kg,
+P-52997,YIELD|Seaweed salad|GZA,1.000,Kg,
+P-55427,YIELD|Serrano pepper,1.000,Kg,
+P-51524,YIELD|Shitake Mushroom|Trimmed,870.000,g,
+P-43699,YIELD|Taro chip,390.000,g,PREP
+P-57145,YIELD|Yellow Pepper,8.300,Kg,
+P-45120,YIELD|Yellow Pepper,0.800,Kg,
+P-9756,YIELD|Zucchini,0.900,Kg,
+P-49605,APPLE|Cubed ,75.000,g,
+P-68227,BATCH|Chickpea Vindaloo,1.300,Kg,
+P-56427,BATCH|Olive Tapenade ,350.000,g,
+P-43729,BATCH|Shoyu Chicken Thigh,7.650,Kg,PREP
+P-37867,Beans-Romano Prep,5.000,Kg,
+P-49155,BEEF|SHVD inside round|Pho|FLX,6.000,Kg,
+P-22761,BEV|Juice Bulk|Apple,18.620,L,
+P-50829,BRINE|Pork Belly|overnight,8.000,Kg,
+P-7537,BROTH|Beef Broth| from Conc,20.000,L,
+P-53147,BROTH|Ramen|MISO,120.000,L,
+P-26101,BROTH|Ramen|tonkotsu,30.000,L,PREP
+P-43933,BROTH|Udon,120.000,L,PREP
+P-56946,CHOPPED|anchovy|PREP,1.000,Kg,
+P-44817,COOKED|2 squash blend|SL,4.000,Kg,
+P-50866,COOKED|Bacon Porkloin|SL,1.600,Kg,PREP
+P-48877,COOKED|beef flat roast|SL,5.000,Kg,
+P-50886,COOKED|Beet w/ Citrus Glazw|SL,4.750,Kg,PREP
+P-50758,COOKED|Bok choy|SL,1.500,Kg,
+P-50761,COOKED|Braised Cabbage|SL,2.000,Kg,
+P-37778,COOKED|Broccoli|SL,4.000,Kg,
+P-50749,COOKED|Brown Rice & herb|SL,4.000,Kg,
+P-50717,COOKED|Brussel sprout Roasted,0.850,Kg,
+P-7337,COOKED|Butter Chicken|USE ME,55.000,Kg,PREP
+P-50882,COOKED|Butternut Squash|BIGVEG,3.600,Kg,
+P-50712,COOKED|Carrots|maple evoo|SL,0.750,Kg,
+P-50295,COOKED|Cauliflower + brocco|SL,180.000,g,
+P-37780,COOKED|Cauliflower|Roast|Prep,4.500,Kg,
+P-46328,COOKED|Chicken Thigh B.I.x2|SL,180.000,g,
+P-40582,COOKED|Chicken|Lemongrass,8.500,Kg,PREP
+P-50876,COOKED|Chimichuri Thigh|SP,9.000,Kg,
+P-57373,COOKED|Crispy potatos,1.000,Kg,
+P-50752,COOKED|Curry Brown Rice|SL,4.000,Kg,
+P-50879,COOKED|Fennel Roasted|SL,2.000,Kg,
+P-52127,COOKED|Garlic Mashed Potato|SL,4.000,Kg,
+P-50290,COOKED|Green beans|SL,2.000,Kg,
+P-50868,COOKED|Herb Potato Steamed,1.000,Kg,
+P-50884,COOKED|Honey Beets|SL,4.750,Kg,PREP
+P-50250,COOKED|Honey Glaze Carrots,18.500,Kg,
+P-50759,COOKED|Italian Veg|SL ,4.000,Kg,
+P-56942,COOKED|Kale wilted|plain|SL,1.250,Kg,
+P-55127,COOKED|Lasagna Vegetables,5.000,Kg,
+P-62143,COOKED|lasagne veg|SL,4.000,Kg,
+P-47353,COOKED|Maple Salmon,11.000,Kg,
+P-50942,COOKED|Maple Yam Mash|SL,5.000,Kg,
+P-7093,COOKED|Mashed Potatoes,15.000,Kg,PREP
+P-53319,COOKED|Olive dressed Thigh|SL,160.000,g,
+P-50763,COOKED|Parsnip roasted|SL,1.600,Kg,
+P-62112,COOKED|Por|Bacon/Pork loin,8.250,Kg,
+P-32692,COOKED|Pork Belly|Asian,20.000,Kg,PREP
+P-50776,COOKED|Pork chop|herbs|SL ,12.000,CT,
+P-50897,COOKED|Potato purple ubc|SL,9.000,Kg,
+P-51525,COOKED|Ramen Noodles,2.000,Kg,
+P-53781,COOKED|Ravioli|Butternutsquash,640.000,g,
+P-50617,COOKED|Roasted Mushrooms|SL,0.600,Kg,
+P-50757,COOKED|Roasted Peppers|SL,1.600,Kg,
+P-50372,COOKED|Roasted Pork Char sui,2.780,Kg,PREP
+P-7078,COOKED|Roasted rosemary potato,25.000,Kg,
+P-50770,COOKED|Salmon Citrus|SL,2.000,Kg,PREP
+P-62148,COOKED|Salmon|SL,1.890,Kg,
+P-57263,COOKED|Tofu butter chicken,55.000,Kg,
+P-55438,COOKED|WW Elbow Macaroni,9.090,Kg,PREP
+P-50941,COOKED|Yam Mashed|SL,9.000,Kg,
+P-9717,DICED|Carrot Jumbo|1/4,1.000,lb,
+P-9719,DICED|Carrot Jumbo|3/4,1.000,lb,
+P-9748,DICED|Jumbo Onion|3/4,1.000,lb,
+P-50563,DICED|Leek,0.450,lb,
+P-50568,DICED|Shallot,0.950,Kg,
+P-56067,DRAINED|Bamboo Shoot - RINSE,1.700,Kg,
+P-44645,DRESSING|Olive/Truffle|Prep,1.100,L,
+P-29128,FLX|Broth Laksa,17.000,L,PREP
+P-26100,FLX|Broth|Pho Beef,57.000,L,PREP
+P-44929,FLX|Vegetarian|Pho Broth,30.000,L,
+P-57302,GARNISH|cheez herb chili|RATIO,150.000,g,
+P-26170,GRILLED|NaanBread,1.000,PTN,PREP
+P-51269,MARINADE|Char Siu pork,3.000,Kg,
+P-50386,MARINADE|Shoyu,2.500,L,PREP
+P-56068,MARINATED|Bamboo Shoot,3.800,Kg,
+P-44776,MIX|Cumin Rub,500.000,g,
+P-61984,MIX|Wilted|Kale & Chard,2.000,Kg,
+P-57011,MIX|YIELD|fennel|FP & UBC|SL,3.500,Kg,
+P-41466,OIL|Confit Garlic,8225.000,g,FEAST
+P-56066,OIL|La-Yu Chinese Chili Oil,5.000,L,
+P-56500,PASTA|Aged Chedder & Mac,4.800,Kg,PREP
+P-47196,PICKLE|Carrot + Daikon,5.000,Kg,PREP
+P-50612,PREP|Apple Brine|SL,1.500,1L,
+P-50614,PREP|Apple Pork Chop|Brined|SL,12.000,CT,PREP
+P-41314,PREP|Bok Choy Processed,6.700,Kg,PREP
+P-45052,PREP|Brown rice|pilaf,11.250,Kg,
+P-44894,PREP|Carrot|BlueBerry|SL,550.000,g,
+P-9721,PREP|Cauliflower Florets,1.000,Kg,
+P-20368,PREP|Chard Processed,2.800,Kg,
+P-18781,PREP|Eggplant process|AAD,10.000,Kg,
+P-44410,PREP|Palak Paneer,33.000,Kg,
+P-50147,PREP|Paprika Oil,1.000,L,
+P-9839,PREP|Parsnip Processed  ,16.749,Kg,
+P-45124,PREP|Peppers Roast Medley,8.750,Kg,
+P-47745,PREP|Potato|Smashed Olive Oil,5.000,Kg,PREP
+P-41306,PREP|Ramen|Sweet Corn,1.000,Kg,
+P-50581,PREP|Rice Noodle Cooked,1.000,Kg,
+P-6986,PREP|Rosemary Oil|SL,3.000,L,PREP
+P-9856,PREP|Squash|roasted|SL ,28.000,Kg,
+P-61904,PREP|STEAMED|bok-choy,4.250,Kg,
+P-10112,"PREP|Sweet Potato 3/4""",4.500,Kg,
+P-44798,PREP|Thyme Yeild,0.500,lb,
+P-51250,PREP|Tofu Cube|GZA,10.000,Kg,
+P-55258,PREP|Whistle Cut|Carrot,10.000,Kg,
+P-50605,PREP|White Beans & Pesto|SL,1.500,Kg,
+P-26885,RICE| White Basmati,4.000,Kg,
+P-53996,ROASTED|Onion,4.500,Kg,
+P-25893,ROASTED|Potato,21.000,Kg,PREP
+P-36878,ROASTED|Sweet potato sage|,9.600,Kg,
+P-12421,RUB|Dry rib rub|SL,105.000,g,PREP
+P-49591,SALAD|Fennel|Shaved,1.250,Kg,
+P-38875,SALAD|Kale Slaw,0.060,Kg,
+P-53448,SALAD|UBC Fresh|FALL,170.000,g,
+P-53126,SAUCE|Aged Cheddar Cheese,5.000,L,PREP
+P-50613,SAUCE|Apple Sauce|SL,1.000,Kg,
+P-50464,SAUCE|Bechamel2021,4.000,L,PREP
+P-7385,SAUCE|Brown Sauce,36.000,L,PREP
+P-8180,SAUCE|Butter Chicken|USE ME,22.000,L,
+P-55100,SAUCE|Chimichurri spicy|SL,1.200,L,
+P-62108,SAUCE|coconut lime leaf|SL,0.700,L,
+P-50771,SAUCE|Gravy Vegetale|SL,2.000,L,
+P-8193,SAUCE|Green Peppercorn,8.000,L,
+P-7336,SAUCE|Gremolata|SL,1380.000,g,
+P-7932,SAUCE|Hoisin,1000.000,ml,PREP
+P-47354,SAUCE|Maple glaze,4.000,L,PREP
+P-40583,SAUCE|Mayo|Kaffir Lime,1.000,L,PREP
+P-50621,SAUCE|Pineapple African|SL,1000.000,g,
+P-41053,SAUCE|Sambal Soy ,2.800,L,PREP
+P-50907,SAUCE|Thai Vegan Sauce|SL,175.000,ml,
+P-50938,SAUCE|Tomato Basil Sauce|SL,2.000,L,
+P-47074,SAUCE|Tomato|San marzano,2.000,L,
+P-50939,SAUCE|Vegan Mush Gravy|SL,4.500,L,
+P-36076,SAUCE|Vindaloo ,10.000,L,PREP
+P-54203,SAUTEED|Shitake Mushroom,1.124,Kg,PREP
+P-50619,SLICED|Celery,7.500,Kg,
+P-34123,"SLICED|Onion 1/8""",11.010,Kg,PREP
+P-13389,SLOW COOKED|Beef Brisket|PV,3.000,Kg,PREP
+P-53775,SOUP|Pumpkin|BASE,2.000,L,
+P-61959,STEAMED|Bao buns,24.000,each,
+P-44331,STEAMED|Broccoli,3.850,Kg,
+P-40972,STEAMED|Spicy Soy Salmon,9.700,Kg,PREP
+P-50600,STOCK|Vegetable Asian,20.000,L,
+P-50389,TOFU|Shoyu,7.500,Kg,
+P-50888,WILTED|Chard|SL,1.000,Kg,
+P-42530,YEILD|Baby carrot|FARM,200.000,g,
+P-51523,YIELD|Bak Choy,21.800,Kg,
+P-50716,YIELD|Brussel sprout|Raw,0.800,Kg,
+P-9720,YIELD|Cauliflower|Florets,11.000,Kg,
+P-12954,YIELD|Celery,750.000,g,
+P-64675,YIELD|Chicken Thigh|diced,1.400,Kg,PREP
+P-44510,YIELD|Cilantro|Bunch,50.000,g,PREP
+P-47836,YIELD|COOKED|Thigh bone in,9.750,Kg,
+P-51222,YIELD|Daikon|Peeled,4.500,Kg,
+P-52035,YIELD|Herb|Thai Basil,500.000,g,
+P-40741,YIELD|Kuterra,0.800,Kg,
+P-49610,YIELD|Kuterra Salmon|Skin off,8.500,Kg,PREP
+P-49571,YIELD|Kuterra Salmon|Skin on,9.000,Kg,
+P-57221,YIELD|Leek,1.200,lb,
+P-9863,YIELD|Leeks,900.000,g,
+P-13933,YIELD|Roasted Red Pepper|Can,2.000,L,
+P-49671,YIELD|Wild Lingcod|steamed,9.500,Kg,
+P-62405,YIELD|Zucchini,938.000,g,
+P-41321,BATCH| Fish Batter 2.0,1.200,L,FEAST
+P-26047,BOILED|Hard Boiled Eggs FT,50.000,ea,PREP
+P-58362,BRINED|Turkey|Breast,9.000,Kg,PREP
+P-55141,COOKED|Charred Corn,2.000,Kg,PREP
+P-52117,COOKED|Chicken Lemon Pepper|SL,300.000,g,
+P-51134,COOKED|Hard Boiled Egg,2.000,un,
+P-47360,COOKED|Vermicelli rice noodle,1.500,Kg,
+P-38554,"DICED|Cucumber|3/4""",3.300,Kg,PREP
+P-52221,DRAINED|PickleSpears,9.500,Kg,
+P-43675,DRESSING|Avocado Lime,4.000,L,PREP
+P-42510,DRESSING|Avocado Vinaigrette,3.000,L,PREP
+P-50539,DRESSING|Caesar|DEL,2.200,L,PREP
+P-26051,DRESSING|Green Goddess,4.000,L,ZDONT USE OK - PREP
+P-50965,DRESSING|Honey Rasberry vin,1.000,L,
+P-28222,DRESSING|Lemon/Lime Yogurt,4.500,L,PREP
+P-26050,DRESSING|Ranch,4.000,L,PREP
+P-56870,DRESSING|Soy truffle,1.750,L,
+P-35750,DRESSING|Spicy Caesar ,4.400,L,PREP
+P-26054,DRESSINGlCaesar,10.000,L,PREP
+P-61886,FILLING|WRAP|Pork belly,1.000,Kg,
+P-57217,FILLING|WRAP|Tofu salad,1500.000,g,
+P-26882,NOODLES|Chow Mein Noodles,15.876,Kg,PREP
+P-54455,PRAWNS|Fried,60.000,g,
+P-28759,PREP| Sliced|Roast Turkey 1kg,1.000,Kg,CK - FOOD
+P-56612,PREP|Almonds are forever|TST,2.000,ea,
+P-13648,PREP|Croutons,2.268,Kg,PREP
+P-7444,PREP|Garlic Puree,4.000,L,PREP
+P-44749,PREP|Marinated Tofu|Cubes,1.000,Kg,PREP
+P-56487,PREP|Radish|Julienne,1.000,Kg,PREP
+P-57063,PREP|sesame seeds roasted|,350.000,g,
+P-50625,PREP|Simple Syrup,1.200,L,
+P-43638,PREP|smoothie|Banana Matcha,2.000,ea,
+P-55184,PREP|Smoothie|C++,4.000,ea,
+P-36780,PREP|Smoothie|Chocohiolic|DEL,2.000,ea,
+P-36815,PREP|smoothie|Delish,4.000,ea,
+P-56681,PREP|Smoothie|Green means go,2.000,ea,
+P-44309,PREP|smoothie|Hawaiian sun,500.000,ml,
+P-36793,PREP|Smoothie|orange zinger,2.000,ea,
+P-49035,PREP|smoothie|Strawberry Cupid,4.000,each,
+P-56779,PREP|Sundried tomato|CHOPPED,464.000,g,
+P-28995,PREP|Tzatziki,4.000,L,PREP
+P-6856,PREP|Yerba Mate for Smoothie,6.000,L,PREP
+P-35691,ROASTED|Pecans|Candied,2.000,Kg,PREP
+P-28369,Sandwich|Bread,10.000,ea,ZDONT USE OK - PREP
+P-43860,Sandwich|Falafel,1.500,oz,
+P-28371,Sandwich|Sauces,40.000,g,ZDONT USE OK - PREP
+P-28373,Sandwich|Vegetables,1.000,un,ZDONT USE OK - PREP
+P-36623,SAUCE|Sesame Ginger Soy|GYZ,1.000,L,PREP
+P-40595,SAUCE|Soy Ginger Dip,1.000,L,
+P-45403,"SLICED|1/8""Red Cabbage",18.000,Kg,PREP
+P-43637,SMOOTHIE|Blue Boost,4.000,ea,
+P-50627,SMOOTHIE|Nojito,2.000,srvg,
+P-36066,SMOOTHIE|Rise and shine|DEL,4.000,ea,
+P-33911,STEAMED|Green Beans Batch,3.500,Kg,PREP
+P-56951,VINAIGRETTE|Grainy Dijon,1.000,L,
+P-54657,YIELD|Avocado,120.000,g,
+P-41407,YIELD|Chives,440.000,g,
+P-57092,YIELD|Chopped Romaine,620.000,g,PREP
+P-50658,YIELD|Golden apple,0.750,CT,
+P-56811,YIELD|Jalapeno,4.000,Kg,PREP
+P-46509,YIELD|Lettuce bun,3.000,each,
+P-52222,YIELD|Pickle Spear ea 20-30g,1.000,ea,
+P-42504,YIELD|Potato Chips,475.000,g,PREP
+P-61817,YIELD|Radicchio,4.000,Kg,
+P-57206,YIELD|Royal Gala Apple,0.800,lb,
+P-56780,YIELD|Sundried tomato|TST,700.000,g,
+P-51538,YIELD|Tarragon|Picked,0.500,Kg,
+P-52941,BISQUE|Coconut| taco Prawn|FLX,0.500,L,
+P-50831,BREADED|Chicken|Karaage Thigh,4.500,Kg,
+P-46516,CAL|Enchilada Filling,2.250,Kg,
+P-40626,CAL|Enchilada Sauce,1.000,L,PREP
+P-46514,CAL|Roasted Jalepeno,0.800,Kg,
+P-59581,CAL|Tofu|Cumin & Lime,5.000,Kg,PREP
+P-40407,Caliente-Chips & Salsa,1.000,1UN,
+P-51540,COOKED|Black Turtle Beans,3.000,Kg,
+P-50854,COOKED|Chicken|Karaage,80.000,g,
+P-51145,COOKED|Cod|Taco Meat,0.750,Kg,
+P-68792,COOKED|Picadillo Beef,8.000,Kg,
+P-64521,COOKED|pork belly tajin|CAL,20.000,Kg,PREP
+P-57071,COOKED|Pozole pork|CAL,3.500,Kg,
+P-35895,COOKED|Rice|Coconut Pilaf,5.000,Kg,PREP
+P-50861,COOKED|Roast beef|SL,3.250,Kg,PREP
+P-44753,COOKED|Veg|Ginger Garlic Broc,1.000,Kg,
+P-44631,Coriander seed powder,200.000,g,
+P-53002,CUBED|Fennel|Yield,780.000,g,
+P-50565,DICED|Carrot,0.950,Kg,
+P-9782,"DICED|Tomato|1/4""",0.454,Kg,
+P-44648,DRESSING|Lemon Vinaigrette,1.750,L,PREP
+P-54195,FILLING|empas|ARI,5.000,Kg,
+P-52942,FILLING|Taco|Prawn|FLX,39.000,g,
+P-57951,FILLING|Taco|Shrimp|FLX,550.000,g,
+P-36616,MARINATE|Beef Korean|GYZ,5.500,Kg,PREP
+P-50830,MARINATED|ChickenKaraage thigh,5.000,Kg,PREP
+P-34832,MARINATED|Tuna|Gyaza,0.850,Kg,
+P-36621,MAYO|Togarashi|GYZ,1.000,L,PREP
+P-47355,NOODLE|Carrot|sunomono,500.000,g,
+P-26136,PICKLE|Onion Red,9.072,Kg,PREP
+P-25306,PICKLED|Daikon & Carrot,1.415,Kg,PREP
+P-9749,PREP Onion Jumbo Chopped,1.000,lb,
+P-26517,PREP|Asian Coleslaw|GZA,0.900,Kg,PREP
+P-65510,PREP|Avocado Cuke cubes|GZA,200.000,g,
+P-64724,PREP|cauliflower|Tempura,750.000,g,
+P-59591,PREP|Chiles|Stock,1.000,L,
+P-55437,PREP|Corn & Beans,2.495,Kg,PREP
+P-45790,PREP|Crispy Tortilla strip|CAL,400.000,g,PREP
+P-65511,PREP|Daikon|Cubes|GZA,1.000,Kg,
+P-53616,PREP|Dice jalapenos,0.900,Kg,
+P-50856,PREP|Korean Beef|GZA,1.000,Kg,PREP
+P-59921,PREP|Mango Pineapple,2.000,Kg,
+P-65742,PREP|Potstickers (3),1.000,each,PREP
+P-40624,PREP|Pozole Verde pork liquid,10.000,L,PREP
+P-9486,PREP|Quinoa Pilaf|CAL ,7.000,Kg,
+P-50852,PREP|Salmon|Ponzu,550.000,g,
+P-14161,PREP|Stock|Chicken,10.000,L,PREP
+P-55281,PREP|Taco beef,1.000,Kg,
+P-35881,PREP|Taco Sweet Potato,2.495,Kg,PREP
+P-61841,PREP|Tater tots,1.000,Kg,
+P-49759,ROASTED|Squash & Tofu,2.500,Kg,
+P-55107,RUB|Taco|Rub,100.000,g,
+P-44647,SALAD|Arugula & Vinaigrette,1.000,Kg,
+P-53614,SALSA|Corn Salsa,3.300,Kg,
+P-41548,SALSA|Salsa Roja,30.000,L,PREP
+P-7136,SAUCE|Avocado Crema,2.000,L,PREP
+P-44630,SAUCE|Chili Chilean Pebre,1.000,L,PREP
+P-35898,SAUCE|green tobasco|Creme,7.500,L,PREP
+P-57070,SAUCE|Pozole sauce|CAL,0.500,L,
+P-44820,SAUCE|Salsa|Corn + pico,1.250,Kg,PREP
+P-47349,SAUCE|Sour cream,35.000,g,
+P-50850,SEASONING|Sunomono,660.000,ml,
+P-50547,SLICED|Onion Red,23.000,lb,
+P-41998,SOUP|Black bean,2.000,L,PREP
+P-54045,SOUP|Miso and Dashi|BASE,1.000,L,
+P-35268,SOUP|Tortilla Soup Base|CAL,3.000,L,PREP
+P-44505,SOUP|Tortillia chicken|CAL,60.000,L,PREP
+P-64103,SOUP|Tortillia|Plant based|CAL,65.000,L,PREP
+P-35318,STOCK|dashi|GZA,14.000,L,PREP
+P-50601,STOCK|Vegetable,20.000,L,PREP
+P-35894,YIELD|Chicken|Cumin & Lime,4.000,Kg,PREP
+P-50851,YIELD|Kuterra||Poke,5.000,Kg,
+P-52994,YIELD|Prawn|Humpback,35.000,each,
+P-64910,Yield|Scallop|CuminLime,4.500,Kg,PREP
+P-51442,YIELD|Shiso,40.000,g,
+P-57294,YIELD|Shrimp meat,386.000,g,
+P-57143,YIELD|Thai Chili Peppers,0.900,Kg,
+P-50855,YIELD|Tomatoes|Ponzu,400.000,g,
+P-47511,YIELD|Tuna albacore OW,9.750,Kg,

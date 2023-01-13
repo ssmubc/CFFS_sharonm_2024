@@ -1,8 +1,8 @@
 import os
-path = "/Users/jennylee/CFFS-PyCharm/"
+from generate_menu_list import *
+path = "/Users/jennylee/CFFS-2022-2023/"
 os.chdir(path)
 
-from generate_menu_list import *
 from notebooks.UBCFS.step1_data_preprocessing import *
 from notebooks.UBCFS.step2_data_cleaning import *
 from notebooks.UBCFS.step3_update_and_mapping import *
@@ -12,7 +12,6 @@ import warnings
 warnings.filterwarnings('ignore')
 
 restaurant_name = "Gather22-23"
-path = "Users/jennylee/CFFS-PyCharm/"
 print(os.getcwd())
 
 # CFFS Labelling 2022-2023: Jenny Lee
@@ -93,7 +92,6 @@ if __name__ == '__main__':
     mapping = map_items_to_nitrogen_factors(mapping, nitro_factors)
     mapping = map_items_to_water_factors(mapping, water_factors)
     mapping = manual_adjust_factors(manual_factor, mapping)
-    mapping.to_csv("notebooks/practice/extra_items_checkpoint.csv", index=False)
     mapping["CategoryID"] = mapping["CategoryID"].astype("int")
     mapping.to_csv("notebooks/data/mapping/Mapping.csv", index=False)
 
@@ -108,47 +106,37 @@ if __name__ == '__main__':
     print("\nStep 4: Data Analysis begins...")
     spc_cov = list(filter(None, conversions['ConversionId'].tolist()))
     conversions = unit_conversion_for_preps(manual_prep, conversions)
-    conversions.to_csv("notebooks/practice/conversion_checkpoint.csv", index=False)
 
     conversions.dropna(axis=0, how="all", inplace=True)
     preps = rearrange_preps(preps)
 
     for index, row in preps.iterrows():
         get_items_ghge_prep(index, row, ingredients, preps, mapping, spc_cov, conversions, liquid_unit, solid_unit, Std_Unit)
-    preps.to_csv("notebooks/practice/get_items_checkpoint.csv", index=False)
     for index, row in preps.iterrows():
         link_preps(index, row, ingredients, preps, spc_cov, conversions, liquid_unit, solid_unit, Std_Unit)
-    preps.to_csv("notebooks/practice/link_prep_checkpoint.csv", index=False)
     for index, row in preps.iterrows():
         get_preps_ghge_prep(index, row, ingredients, preps, spc_cov, conversions, liquid_unit, solid_unit, Std_Unit)
 
     products = rearrange_products(products)
-    products.to_csv("notebooks/practice/products_check0.csv", index=False)
     for index, row in products.iterrows():
         get_items_ghge(index, row, ingredients, products, mapping, conversions, liquid_unit, solid_unit, Std_Unit)
-    conversions.to_csv("notebooks/practice/error_check.csv", index=False)
-    products.to_csv("notebooks/practice/products_check.csv", index=False)
     for index, row in products.iterrows():
         get_preps_ghge(index, row, ingredients, products, preps, conversions, liquid_unit, solid_unit, Std_Unit)
-    products.to_csv("notebooks/practice/products_check2.csv", index=False)
     for index, row in products.iterrows():
         get_products_ghge(index, row, ingredients, products)
-    products.to_csv("notebooks/practice/products_check3.csv", index=False)
 
     for index, row in products.iterrows():
         filter_products(index, row, ingredients, preps_nonstd, products)
-    products.to_csv("notebooks/practice/weight_check.csv", index=False)
 
     products = products_cleanup(products)
     assert assertpoint == products.shape[0], "Step 4: Products shape do not match."
-    products.to_csv("notebooks/data/final/Recipes Footprints2.csv", index=False)
+    # products.to_csv("notebooks/data/final/Recipes Footprints2.csv", index=False)
     print("Clear! Moving on.")
 
     # Step 5: data labelling
     print("\nStep 5: Data Labelling begins...")
     final = products.copy()
 
-    products.to_csv("notebooks/practice/products_check4.csv", index=False)
     final["GHG Only Label"] = final["GHG Emission (g) / 100g"].apply(lambda x: create_ghg_label(x))
     final = create_results_all_factors(final)
     assert assertpoint == products.shape[0], "Step 5: Products shape do not match."
