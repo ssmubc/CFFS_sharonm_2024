@@ -1,15 +1,12 @@
 import pandas as pd
 import os
-from AMS_step1_data_processing import *
-from AMS_step2_data_cleaning import *
-from AMS_step3_mapping import *
-from AMS_step4_labelling import *
+from .functions.AMS_data_cleaning import *
+from .functions.AMS_mapping import *
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
-from datetime import datetime
 
 if __name__ == '__main__':
-    path = "/Users/jennylee/CFFS-PyCharm/notebooks/"
+    path = "/Users/jennylee/CFFS-2022-2023/notebooks/"
     os.chdir(path)
     print(os.getcwd())
 
@@ -58,45 +55,22 @@ if __name__ == '__main__':
     print(unassigned_df)
 
     unassigned_df.to_csv("data/AMS/preprocessed/Category_Unassigned.csv", index=False)
-    #
-    # # Duplicate df manually and save it under the name "Category_Unassigned". Copy and paste its content to "Category_Assigned".
-    # df = pd.read_csv("data/AMS/preprocessed/Category_Assigned.csv")
-    # df['Category'] = df['Category'].astype('int')
-    # print(df.dtypes)
-    # # for ind, row in assigned_df.iterrows():
-    # #     if row["Category"] == 0:
-    # #         print("Category unassigned. Please revise before proceeding forward.")
-    # #         exit()
-    # # df = pd.concat([assigned_df, df], axis=0)
-    # # print(df)
 
     df = pd.read_csv("../data/AMS/preprocessed/Category_Assigned_new.csv")
     df = df.loc[df["Category"] != 0]
     df = df.drop_duplicates(subset=["ConversionId"])
     df = match_ghge_emissions(ghge_factors, df)
-    df.to_csv("data/AMS/preprocessed/outcome_test3.csv", index=False)
     df = match_nitrogen_lost(nitro_factors, df)
     df = match_water_withdrawals(water_factors, df)
     df = match_products_to_items(items, df)
-    print("000000000")
-    print(df)
-    df.to_csv("data/AMS/preprocessed/outcome_test0.csv", index=False)
+
     df = scale_emissions(df)
-    df.to_csv("data/AMS/preprocessed/outcome_test8.csv", index=False)
     df = total_emission_by_food(df)
-    df.to_csv("data/AMS/preprocessed/outcome_test7.csv", index=False)
     df = assign_weight(df)
-    df.to_csv("data/AMS/preprocessed/outcome_test.csv", index=False)
-    print(df)
 
     df = calculate_emissions_per_products(df)
-    print("sdfsd fsefs")
-    print(df.columns)
-    df.to_csv("data/AMS/preprocessed/outcome_test4.csv", index=False)
     df = calculate_100g_emissions(df)
-    df.to_csv("data/AMS/preprocessed/outcome_test5.csv", index=False)
     df = calculate_by_weight(df)
-    df.to_csv("data/AMS/preprocessed/outcome_test6.csv", index=False)
 
     parent_prod = ["P-3", "P-1", "P-24", "P-22", "P-13", "P-20", 'P-20', 'P-21', 'P-25',
                    'P-18', 'P-27', 'P-5', 'P-12', 'P-28', 'P-2', 'P-15', 'P-17']
@@ -104,13 +78,10 @@ if __name__ == '__main__':
     # for ind, row in df.iterrows():
     #     if row["PrepId"] in parent_prod:
     #         df = df.drop(ind)
+    # df.to_csv("data/AMS/preprocessed/Items_Labelled.csv", index=False)
 
     df.to_csv("data/AMS/preprocessed/Labelled_per_Child_Items.csv", index=False)
     print(df)
-
-    print("0sfsdf sdf")
-    print(df)
-    # df.to_csv("data/AMS/preprocessed/Items_Labelled.csv", index=False)
 
 
 
