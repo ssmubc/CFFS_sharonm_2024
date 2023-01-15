@@ -48,7 +48,7 @@ All recipes are derived from the **Flavour Lab** located in UBC Vancouver Campus
   - Child products are usually identified by the keyword "2022.3" included in their description. 
 
 ## 2. Explaining Workflow
-![AMS]("image/AMS_workflow.png")
+
 <img src="image/AMS_workflow.png">
 
 
