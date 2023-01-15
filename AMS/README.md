@@ -1,4 +1,4 @@
-# AMS (2022
+# AMS (2022~2023)
 
 #### Credits:
 - Product recipe provided by: **Flavour Lab** at UBC Vancouver
@@ -75,4 +75,5 @@ In total, **26 products** are analyzed. Distribution is as follows:
 | Red      | 2 | 7.692 % |
 
 <img src="image/summary_visualization.png" width="700" height="400">
+
 Plots are generated in `AMS_workflow.ipynb` at **Step 3: Summary and Visualization**. 
