@@ -74,5 +74,5 @@ In total, **26 products** are analyzed. Distribution is as follows:
 | Yellow      | 5 | 19.231 % | 
 | Red      | 2 | 7.692 % |
 
-
-
+<img src="image/summary_visualization.png" width="700" height="400">
+Plots are generated in `AMS_workflow.ipynb` at **Step 3: Summary and Visualization**. 
