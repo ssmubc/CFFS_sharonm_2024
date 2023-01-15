@@ -69,7 +69,7 @@ Files used in this workflow:
 ## 3. Final Outcomes
 In total, **26 products** are analyzed. Distribution is as follows:
 | Label       | Label Counts       | Percentage  | 
-| -------------: |-------------:| -----:| -----:| -----:| -----:| 
+| -------------: |-------------:| -----:| 
 | Green      | 19 | 73.077 % | 
 | Yellow      | 5 | 19.231 % | 
 | Red      | 2 | 7.692 % |
