@@ -61,7 +61,7 @@ In total, **775 menu items** are labelled. Label count distributions are as foll
 Scirpts for the above figures can be found in `Step7_visualizations.py`. 
 
 ## 3. CFFS Application (Web browser)
-![UBCFS](image/application.png)
+![UBCFS](image/CFFS_app_hindsight.png)
 
 🔗 [CFFS Application](https://cffs-app.herokuapp.com)
 
