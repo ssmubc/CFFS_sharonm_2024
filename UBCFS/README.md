@@ -3,6 +3,7 @@
 #### Credits:
 - **Product recipes** provided by: University of British Columbia Food Services
 - **Workflow generation** and **data analysis**: CFFS Data Analyst, Jenny Lee
+- **Supervised** by: Kushank Bajaj
 
 #### Contents:
 0. Research Background and Rationale
