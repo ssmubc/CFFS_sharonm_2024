@@ -6,6 +6,7 @@
 
 ## 0. Research Background and Rationale
 🔗 [Presentation Slides](https://github.com/jlee2843/CFFS-22-23/blob/main/UBCFS/final_presentation.pdf)
+<br>🔗 Research Report
 - **Purpose**: Adhering to UBC’s commitment to the *CAP 2030*, the CFFS project aims to achieve 50% GHG emission reduction by 2030 in comparison to 2019. 
 - **Goals**: To develop a campus-wide Climate-Friendly Food Systems (CFFS) Label and observe consumer responses corresponding the labels. Ultimately aims to increase sustainable dietary choices and habits. 
 - **Objectives**: Develop a semi-automatic flow that assigns CFFS labels based on the environmental impact of producing the item. 
