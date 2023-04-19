@@ -65,7 +65,7 @@ Scirpts for the above figures can be found in `Step7_visualizations.py`.
 ![UBCFS](image/CFFS_app_hindsight.png)
 
 🔗 [CFFS Application](https://cffs-app.herokuapp.com)
-<br>🔗 [Heroku deployemnt link](https://dash.plotly.com/deployment)
+<br>🔗 [Heroku deployment link](https://dash.plotly.com/deployment)
 
 Accessibility to the sustainability label information is largely enhanced through development of a web-browser-based application. This application is fully developed in Python and launched with Heroku application platform. In this application, users are able to:
 
