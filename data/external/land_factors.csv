@@ -1,0 +1,62 @@
+﻿Category ID,Food Category,km^2 land use/kg product
+1,beef & buffalo meat,0.00012645
+2,lamb/mutton & goat meat,0.0001432
+3,pork (pig meat),0.00002102
+4,"poultry (chicken, turkey)",0.00001151
+5,butter,0.00001395
+6,cheese,0.00001046
+7,ice cream,0.00000369
+8,cream,0.0000078
+9,milk (cow's milk),0.00000205
+10,yogurt,0.00000226
+11,eggs,0.00000684
+12,fish (finfish),0.0000069
+13,crustaceans (shrimp/prawns),0.00000297
+14,mollusks,0
+15,animal fats,0.00001495
+16,other legumes,0.00000961
+17,beans and pulses (dried),0.00001295
+18,peas,0.00000691
+19,peanuts/groundnuts,0.00000728
+20,soybeans/tofu,0.00000414
+21,other grains/cereals,0.00000454
+22,corn (maize) ,0.00000174
+23,oats (oatmeal),0.00000694
+24,"wheat/rye (bread, pasta, baked goods)",0.00000489
+25,rice,0.00000217
+26,tree nuts and seeds,0.00000692
+27,almond milk,0.0000005
+28,oat milk,0.00000077
+29,rice milk,0.00000026
+30,soy milk,0.00000078
+31,other fruits,0.00000071
+32,apples,0.00000061
+33,bananas,0.00000193
+34,berries,0.0000007
+35,citrus fruit ,0.00000042
+36,cabbages and other brassicas (broccoli),0.0000023
+37,tomatoes,0.00000016
+38,root vegetables,0.00000032
+39,onions and leeks,0.00000053
+40,other vegetables,0.00000119
+41,potatoes,0.00000052
+42,cassava and other roots,0.00000052
+43,sugars and sweeteners,0.00000239
+44,other vegetable oils,0.00001314
+45,soybeans (oil),0.00001218
+46,palm (oil),0.00000242
+47,sunflower (oil),0.00001357
+48,rapeseed/canola (oil),0.00001583
+49,olives (oil),0.00002671
+50,barley (beer),0.0000013
+51,wine grapes (wine),0.00000133
+52,cocoa,0.00006896
+53,coffee,0.00002162
+54,stimulants & spices misc.,0.000031
+55,water & beverages,0
+56,salt,0
+57,vinegar ,0
+58,sauces & paste,0
+59,manually adjusted,0
+60,human labor,0
+61,kitchen supplies,0

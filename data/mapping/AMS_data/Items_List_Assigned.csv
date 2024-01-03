@@ -1,0 +1,457 @@
+ItemId,CategoryID,Description,CaseQty,CaseUOM,PakQty,PakUOM,InventoryGroup
+I-1971,35,LIMES,0.25,ea,1.0,ea,N
+I-8228,55,Grey Goose 1.14L,1.0,fl oz,1.0,fl oz,N
+I-15803,31,Red Bull Watermelon,1.0,can,1.0,can,N
+I-5505,36,Lettuce - Romaine ,0.25,HEAD,1.0,HEAD,N
+I-8667,58,ITEM GARLIC MAYO,2.0,fl oz,1.0,ml,N
+I-13308,24,"TORTILLA 12"" FLOUR PRESSED",1.0,ea,1.0,ea,N
+I-15514,16,VEG BACON VEGAN FZN,0.5,slice,1.0,slice,N
+I-16699,16,CHICKEN TENDER Vegan ,100.0,g,1.0,g,N
+I-17976,16,SO-Cheese Vegan Parm Shred,20.0,g,1.0,g,N
+I-4082,24,bread bun slider brioche,3.0,ea,1.0,ea,N
+I-14694,3,Porch Item Pulled Pork,3.0,fl oz,1.0,ml,N
+I-1789,31,CUCUMBER LONG ENGLISH MED,1.0,HEAD,6.0,HEAD,N
+I-2919,40,Yaki Nori half Cut,6.0,ea,6.0,ea,N
+I-1660,58,SAUCE CHIPOTLE IN ADOBO ,1560.0,ml,30.0,fl oz,N
+I-1752,40,CILANTRO,3.0,BUNCH,30.0,BUNCH,N
+I-1782,8,CREAM SOUR 4L,10.0,L,30.0,ml,N
+I-1874,38,GARLIC WHOLE PEELED,200.0,g,30.0,oz,N
+I-1982,58,MAYONNAISE GF,20.0,L,30.0,ml,N
+I-2119,48,PFO OIL CANOLA JIB  ANTI FOAM,100.0,ml,30.0,ml,N
+I-2330,54,SPICE CUMIN SEED GROUND SHAKER,36.0,g,30.0,oz,N
+I-5198,35,Lime Juice,320.0,ml,30.0,ml,N
+I-1841,44,OIL EXTRA VIRGIN OLIVE ,1700.0,ml,24.0,fl oz,Y
+I-1941,35,JUICE LEMON PLAS,1000.0,ml,24.0,ml,Y
+I-1995,54,MINT LEAVES,600.0,g,24.0,g,Y
+I-2102,18,PEA GRADE A IQF ,12.0,Kg,24.0,g,Y
+I-2343,54,SPICE PEPPER BLACK GROUND CRSE,72.0,g,24.0,fl oz,Y
+I-2436,32,VINEGAR APPLE CIDER PURE,500.0,ml,24.0,ml,Y
+I-3804,54,SPICE CHILI RED PEPPER CRUSHED,12.0,g,24.0,g,Y
+I-4198,40,ITALIAN PARSLEY,625.0,g,24.0,lb,Y
+I-5283,56,SALT COARSE KOSHER,444.0,g,24.0,g,Y
+I-5899,61,"Bag - Vacuum Seal 12""x14"" ",24.0,ea,24.0,ea,Y
+I-13711,38,GARLIC MINCED,192.0,g,24.0,g,Y
+I-13733,20,EDAMAME SHELLED 2KG,12.0,Kg,24.0,g,Y
+I-2640,55,Water - Tap,250.0,ml,2.5,ml,N
+I-2958,38,Ginger Fresh,1.0,Kg,2.5,oz,N
+I-1783,8,CREAM WHIPPING 33%,6.0,L,110.0,ml,Y
+I-1927,54,JALAPENO PEPPER - FRESH,1.0,Kg,110.0,g,Y
+I-2066,39,ONION RED JUMBO ,3.25,Kg,110.0,oz,Y
+I-2117,31,Peppers Red,2.0,Kg,110.0,oz,Y
+I-2324,54,SPICE CHILI POWDER ,80.0,g,110.0,g,Y
+I-2339,54,SPICE PAPRIKA ,500.0,g,110.0,g,Y
+I-2367,43,SUGAR GRANULATED FINE,1.16,g,110.0,g,Y
+I-2464,37,TOMATO - WHOLE PLUM ,35.0,L,110.0,fl oz,Y
+I-5428,54,SO - SPICE CARDAMON GREEN WHL,80.0,g,110.0,oz,Y
+I-5803,54,Garam Masala,310.0,g,110.0,g,Y
+I-7648,5,Butter Unsalted 1 lb,2.0,Kg,110.0,oz,Y
+I-11651,37,Tomatoes 5 x 6 Bulk,24.0,Kg,110.0,oz,Y
+I-13718,54,KASOORI METHI,60.0,g,110.0,g,Y
+I-1894,39,ONIONS GREEN ,300.0,g,18.0,oz,Y
+I-2116,40,PEPPERS-GREEN MED,1.5,Kg,18.0,oz,Y
+I-2167,26,QUINOA,4.0,Kg,18.0,oz,Y
+I-2442,25,VINEGAR RICE SEAS GOURM,375.0,ml,18.0,ml,Y
+I-5106,31,PEPPERS - YELLOW,1.5,Kg,18.0,oz,Y
+I-14979,26,QUINOA tri colour ,4.0,Kg,18.0,g,Y
+I-1635,9,BUTTERMILK 3.25%,2000.0,ml,20.0,ml,Y
+I-4091,56,SALT KOSHER COARSE,15.0,g,20.0,g,Y
+I-14882,4,CHICKEN TENDER 20kg,20.0,Kg,20.0,g,Y
+I-2328,54,SPICE CLOVES GROUND ,5.0,g,100.0,g,N
+I-2335,38,SPICE GINGER GROUND SHAKER ,10.0,g,100.0,g,N
+I-2337,54,SPICE NUTMEG GROUND SHAKER ,0.4,fl oz,100.0,fl oz,N
+I-5796,43,Syrup-Maple Jug Medium #1,150.0,ml,100.0,ml,N
+I-12752,26,PECANS-Lrge Fancy,100.0,g,100.0,g,N
+I-2203,31,SALSA MED THICK AND CHUNKY,4.0,fl oz,250.0,ml,N
+I-4014,22,"Tortilla Corn 6""",16.0,ea,250.0,ea,N
+I-10955,6,Cheese 3 Blend Shred ,160.0,g,250.0,g,N
+I-14532,49,Black Olives sliced,40.0,g,250.0,g,N
+I-1637,36,CABBAGE GREEN,2.0,oz,1.0,oz,N
+I-1892,36,CABBAGE RED ,2.0,oz,1.0,oz,N
+I-7647,24,"Tortilla Flour 6""",2.0,ea,1.0,ea,N
+I-10942,12,Cod Port 1.7Z Btd Taco Cut,2.0,ea,1.0,ea,N
+I-13719,61,2019 misc exp ,1.0,ea,1.0,ea,N
+I-9665,12,COD GREY LOIN 3OZ IQF OW,1.0,ea,1.0,ea,N
+I-10510,50,Hoyne - Dark Matter 50L,0.2,fl oz,1.0,fl oz,N
+I-2087,40,PARSLEY ,0.2,BUNCH,1.0,BUNCH,N
+I-2209,56,SALT TABLE IODIZED,3.0,g,1.0,g,N
+I-10387,58,Paste Tamarind Conc 380g,17.5,g,8.0,g,N
+I-15834,20,SO-TEMPEH organic ,330.0,g,8.0,g,N
+I-16548,38,Paste Ancho,42.5,ml,8.0,fl oz,N
+I-1541,32,APPLE ROYAL GALA 100-113CT FAN,2.0,ea,90.0,ea,N
+I-2323,54,SPICE CAYENNE SHAKER ,0.25,tsp,90.0,fl oz,N
+I-12212,43,Brown Sugar 1KG Bags,3.0,g,90.0,g,N
+I-1863,41,FRIES 7/16IN HARVEST PRIDE ,0.5,lb,1.0,g,N
+I-2067,39,ONION RING BTD TEMPURA BEEFEAT,0.5,lb,1.0,g,N
+I-8460,48,ITEM CHIPOLTE AIOLI,60.0,ml,1.0,ml,N
+I-12354,3,GYOZA PORK 250PC,4.0,piece,1.0,piece,N
+I-14666,26,Porch ITEm Dres Asian Sesame,60.0,ml,1.0,ml,N
+I-1549,40,ARTICHOKE 1/4,40.0,ea,20.0,ea,N
+I-1675,6,CHEESE CREAM PLAIN SOFT ,1000.0,g,20.0,g,N
+I-2068,39,ONIONS,0.5,Kg,20.0,oz,N
+I-2349,40,SPINACH WASHED TRIMMED,200.0,g,20.0,oz,N
+I-4184,58,SAUCE RED HOT,100.0,ml,20.0,ml,N
+I-2037,5,BUTTER REG SALTED,225.0,g,5.0,oz,N
+I-13817,55,FRENCH AUS JUS,490.0,g,5.0,g,N
+I-1588,17,BEAN GARBANZO CHICK PEA,2.8,L,20.0,ml,N
+I-2099,20,PASTE TAHINI,100.0,g,20.0,g,N
+I-5731,49,Olive Kalamata Superior Pitted,100.0,g,20.0,g,N
+I-7338,4,Chicken Brst b/l s/l random,4.0,oz,1.0,oz,Y
+I-8851,3,ITEM PULLED PORK RUB,10.0,g,1.0,g,Y
+I-13706,12,SAL ATL -FLT S/OFF ,5.0,oz,1.0,oz,N
+I-1655,40,CELERY,400.0,g,13.0,oz,N
+I-13577,3,Pork Rib Back Danish Baby14-18,0.5,cs,13.0,cs,N
+I-14423,38,CARROTS JUMBO 5LB ,400.0,g,13.0,g,N
+I-15592,55,JUICE ORANGE CONC 6+1,500.0,ml,13.0,ml,N
+I-1689,6,CHEESE PARMESAN PURE SHRED,15.0,g,1.0,g,N
+I-2992,3,Bacon Pre-Ckd 30-34 ct,1.0,slice,1.0,slice,N
+I-5944,36,Brussel Sprouts Large Fresh,200.0,g,1.0,g,N
+I-5777,24,Flour - Fried Chicken Blend,10.0,g,1.0,g,N
+I-13691,58,DRESSING Caesar,1.5,fl oz,1.0,ml,N
+I-1596,17,BEAN REFRIED,60.0,ml,1.0,ml,N
+I-14419,39,ONIONS RED 5LB,50.0,g,1.0,oz,N
+I-1859,38,DILL - FRESH ,5.0,g,1.0,oz,Y
+I-2111,57,PEPPER HOT BANANA RING SLCD,50.0,ml,1.0,ml,Y
+I-15515,12,Squid Strip Humboldt 8-12mm ,200.0,g,1.0,g,Y
+I-2378,22,SYRUP CORN GOLDEN,25.0,ml,1.0,ml,N
+I-2446,26,WALNUT PIECES 1/2 & pcs,800.0,g,1.0,g,N
+I-7656,11,Egg Yolk Liq,100.0,g,1.0,g,Y
+I-14418,36,Cauliflower each ,300.0,g,1.0,g,N
+I-14737,36,2020 Cauliflower coating,40.0,g,1.0,g,N
+I-1963,35,LEMONS,0.25,ea,1.0,ea,N
+I-5265,3,Bacon Raw 14-22ct econo,2.0,slice,1.0,slice,N
+I-9911,4,Chicken Leg B/L S/on,18.0,Kg,18.0,oz,Y
+I-3036,55,MIRIN 5.28GL,720.0,ml,2100.0,fl oz,N
+I-3230,54,Black Pepper Fine,24.0,g,2100.0,g,N
+I-5575,26,Sauce pesto gfs nut free,1.0,lb,5.0,g,N
+I-2402,37,TOMATO - 6 X 7 MED,30.0,g,1.0,oz,N
+I-5126,6,CHEESE NATURAL SL MOZZ,1.0,slice,1.0,slice,N
+I-5220,36,Lettuce Green Leaf Fillet,30.0,g,1.0,oz,N
+I-14948,24,Brioche Hamburger Bun,1.0,ea,1.0,ea,N
+I-15074,58,G21-Creole Dressing,10.0,ml,1.0,ml,N
+I-2257,54,SEASONING CAJUN ,90.0,g,5.0,g,Y
+I-15444,34, Blackberries 6oz,1.0,oz,1.0,oz,N
+I-2456,31,WATERMELON,600.0,g,660.0,oz,N
+I-1568,61,BAKING PWDR GMO,8.0,g,1.0,g,N
+I-1773,22,CORN KERNEL WHOLE IQF GR A ,225.0,g,1.0,g,N
+I-5223,40,CHIVE - FRESH  ,10.0,g,1.0,oz,N
+I-7054,11,Egg White Liq Pasteurized,80.0,ml,1.0,fl oz,N
+I-13842,24,FLOUR ALL PURPOSE.,500.0,g,1.0,g,N
+I-3258,54,THYME,1.0,g,1.0,oz,N
+I-7775,43,Syrup Table Pancake Maple 4L,2.0,oz,1.0,oz,N
+I-1917,43,HONEY LIQUID SQUEEZE CAN,2.2,fl oz,1.0,fl oz,N
+I-5908,31,Cranberries Dried TFC,100.0,g,1.0,g,N
+I-7981,58,Mustard Dijon Hot Tub,1.0,Tbsp,1.0,ml,N
+I-2355,22,STARCH CORN,50.0,g,1.0,g,Y
+I-5942,36,Cauliflower,300.0,g,1.0,g,Y
+I-1908,40,HERB OREGANO LEAVES ,10.0,g,385.0,fl oz,Y
+I-2333,54,SPICE GARLIC POWDER 2kg,20.0,g,385.0,g,Y
+I-6461,54,Citric Acid Powder,5.0,g,385.0,g,Y
+I-7645,38,Spice Garlic Granulated 700g,20.0,g,385.0,g,Y
+I-12361,54,SPICE SMOKED PAPRIKA,65.0,g,385.0,g,Y
+I-14977,31,HABANERO peppers,75.0,g,385.0,g,Y
+I-8389,4,ITEM BUTTERMILKCHICKEN,200.0,g,1.0,g,N
+I-2121,57,PICKLE DILL SANDW LONG SLCD,1.0,slice,1.0,slice,N
+I-3498,6,Cheese Cheddar Slices 21gm,1.0,slice,1.0,slice,N
+I-8454,58,ITEM BURGER SAUCE,2.0,fl oz,1.0,ml,N
+I-14218,1,Burger - Craft 6oz,1.0,ea,1.0,ea,N
+I-1958,37,KETCHUP VOL PAK,60.0,ml,1.0,ml,N
+I-11000,58,ITEM QUESO SAUCE,8.0,fl oz,1.0,fl oz,N
+I-14294,41,Tortilla Chip Que Pasa,10.0,oz,1.0,g,N
+I-14531,57,Casa Fiesta Jalapeno slcd,8.0,oz,1.0,g,N
+I-3337,37,TOMATO - CHERRY,4.0,ea,1.0,ea,N
+I-3914,36,Salad Tuscan Mix (Arcadian),3.0,oz,1.0,oz,N
+I-12351,26,SESAME BLACK 5LB SK,2.0,g,1.0,g,N
+I-14505,41,NOODLES sweet potato,5.0,oz,1.0,g,N
+I-14732,20,Porch Item Sesame Tofu,200.0,g,1.0,Kg,N
+I-2181,25,RICE BASMATI TEXANA INDIA,2400.0,g,30.0,g,Y
+I-8151,18,pea greens,0.5,LBS,30.0,LBS,Y
+I-3005,40,BASIL Fresh,5.0,g,1.0,oz,N
+I-12135,36,Bok Choy Shanghai,20.0,g,1.0,oz,N
+I-13746,26,ITEM 2019 Thai Green Curry,6.0,fl oz,1.0,ml,N
+I-14822,54,Pepper Red,1.0,oz,1.0,oz,N
+I-3354,61,"Knotted Skewer Bamboo 4""",1.0,ea,1.0,ea,N
+I-2103,55,PEACH SLCD IN PEAR JUICE,300.0,ml,300.0,ml,N
+I-6204,55,Juice - Lime Fresh Squeezed,30.0,g,300.0,oz,N
+I-2133,31,PINEAPPLE,1.0,ea,15.0,ea,N
+I-15925,48,OIL Canola Shirakiku 16L,3.0,oz,15.0,oz,N
+I-16638,1,Burger - chefs choice 6z,1.0,ea,1.0,ea,N
+I-1897,31,GUACAMOLE WESTERN STYLE ,6.0,fl oz,1.0,fl oz,N
+I-13694,57,DRESSING Ranch BtrMilk,2.0,fl oz,1.0,ml,N
+I-1636,31,SQUASH - BUTTERNUT,60.0,g,1.0,oz,N
+I-4925,38,Carrots Baby - Tri Color,5.0,g,1.0,g,N
+I-12877,38,Radish-Watermelon,5.0,g,1.0,oz,N
+I-13813,37,Tomato Baby Gem Mix HH,0.2,LBS,1.0,LBS,N
+I-15200,40,SALAD TUSCAN MIXED,60.0,g,1.0,oz,N
+I-14422,39,Onions Green 3ct ,5.0,g,1.0,oz,N
+I-2262,26,SESAME SEEDS,2.0,g,1.0,g,N
+I-14126,24,"PITA THICK 5""",0.5,ea,1.0,ea,N
+I-14127,24,PITA POCKETS THIN,0.5,ea,1.0,ea,N
+I-11093,6,Cheese Curd Portions 80G,40.0,g,1.0,g,N
+I-3700,24,"TORTILLA 12"" FLOUR El Torito",1.0,ea,1.0,ea,N
+I-2238,4,SAUCE SWEET CHILLI F/ CHICKEN ,2.0,fl oz,1.0,ml,N
+I-13598,40,Spring rolls-50gx40p,6.0,ea,1.0,ea,N
+I-3180,57,Vinegar White Wine,4.5,fl oz,665.0,ml,N
+I-2183,25,RICE JASMINE FRAGRANT,1000.0,g,12.0,g,Y
+I-1849,24,FLOUR ALL PURPOSE,3.0,Kg,3.0,g,Y
+I-2341,54,Spice Paprika Shk 540g,30.0,g,3.0,g,Y
+I-2920,58,Sauce Soy Kikkoman Jap,350.0,ml,4500.0,fl oz,Y
+I-15547,54,Gochujang Hot Pepper Paste ,600.0,g,4500.0,g,Y
+I-16698,54,Lemon Pepper Seasoning,825.0,g,875.0,g,N
+I-8749,54,ITEM VEGAN MAYO,500.0,ml,500.0,ml,N
+I-5203,41,POTATO YUKON GOLD LARGE,4.0,Kg,3.7,oz,N
+I-2263,54,SHIRO MISO,50.0,g,600.0,g,N
+I-1695,6,CHEESE SWISS SLCD NAT 21G,1.0,slice,1.0,slice,N
+I-12060,24,"Brioche Sliced Ham Bun 4""",1.0,ea,1.0,ea,N
+I-13001,6,GOAT CHS CRUMBLE ,227.0,g,1.5,g,Y
+I-2443,57,VINEGAR WHITE ,3.0,cup,5.0,ml,N
+I-16144,54,SPICE Pickling Whole SO,35.0,g,5.0,g,N
+I-13757,26,ITEM 2019 Organic Quinoa,60.0,g,1.0,Kg,N
+I-13759,16,ITEM 2019 Edamame Falafel Mix,60.0,g,1.0,Kg,N
+I-2153,3,PORK BUTT BNLS BULK FZN,8.0,Kg,6.0,g,Y
+I-6865,39,Onion White Peeled,500.0,g,6.0,oz,Y
+I-12173,58,Sauce BBQ Kansas City Style,800.0,ml,6.0,ml,Y
+I-14424,40,CELERY 3CT,300.0,g,6.0,oz,Y
+I-17946,55,JUICE orange 100% tetra,1.0,L,6.0,ml,Y
+I-8418,58,ITEM KANSAS CITY BBQ,1.5,fl oz,1.0,ml,N
+I-2159,41,POTATO RUSSET BAKER 100CT BOX,600.0,g,6.0,oz,N
+I-5773,17,Chana (Chickpea) Flour,60.0,g,6.0,g,N
+I-14803,38,Porch Item Shaved Herl Carrots,30.0,g,1.0,g,N
+I-14805,38,Porch Item Shaved Radishes,10.0,g,1.0,g,N
+I-4697,32,Apple Juice tetra Pack,1.0,ea,4.2,ea,N
+I-15071,58,G21- Teriyaki Sauce,15.0,ml,1.0,ml,N
+I-13755,58,ITEM 2019 Mapo Sauce,6.0,oz,1.0,g,N
+I-14556,1,Beef Ground Lean ,5.0,Kg,3.3,g,N
+I-5008,58,Sauce Sriracha Hot Chilli ,150.0,ml,650.0,fl oz,N
+I-13793,24,Wrappers Round dumpling,50.0,g,1.0,g,N
+I-15673,61,SO BAMBOO LEAVES 200s,1.0,ea,1.0,ea,N
+I-2396,20,TOFU EXTRA FIRM,185.0,g,1.0,g,N
+I-6090,54,Spice - Turmeric Grnd Shaker,4.0,g,540.0,g,N
+I-14604,42,GINGER,8.0,g,540.0,oz,N
+I-6203,55,Juice - Lemon Fresh Squeezed,50.0,g,1.2,oz,Y
+I-4041,61,Basket Liner Black Check,1.0,ea,1.0,ea,N
+I-4098,61,Cup 2oz Portion,2.0,ea,1.0,ea,N
+I-4130,61,Lid 2oz Portion Flat Clr f/Blk,2.0,ea,1.0,ea,N
+I-7789,61,Napkin Din 2py 1/8 Fold Wht,1.0,ea,1.0,ea,N
+I-9599,61,CUTLERY SPOON WOODEN ECO ,1.0,ea,1.0,ea,N
+I-9600,61,CUTLERY KNIFE WOODEN ECO,1.0,ea,1.0,ea,N
+I-9601,61,CUTLERY FORK WOODEN ECO ,1.0,ea,1.0,ea,N
+I-16242,61,9x6x3 CLAMSHELL ,1.0,ea,1.0,ea,N
+I-15221,44,White Truffle Oil Truffco,0.5,fl oz,1.0,ml,N
+I-14978,24,Brioche Bun Vegan Frz,1.0,ea,1.0,ea,N
+I-16803,49,VEGAN Cheddar Slices,25.0,g,1.0,g,N
+I-1649,54,CAPER CAPUCINE,8.0,Tbsp,40.0,ml,Y
+I-18051,6,CHEESE vegan 4 chz blend,50.0,g,40.0,g,Y
+I-7804,40,Romaine Hearts,0.5,HEAD,1.0,HEAD,N
+I-4022,24,Belgian Waffle,2.0,ea,1.0,ea,N
+I-1882,57,BALSAMIC REDUCTION GL FR,15.0,ml,1.0,ml,N
+I-5204,36,ARUGULA WILD BABY,50.0,g,1.0,g,N
+I-16697,6,HALLOUMI 22%,20.0,g,1.0,g,N
+I-14442,16,Falafel Balls 300ct,4.0,ea,1.0,ea,N
+I-10834,20,Tahini 2lb,35.0,g,750.0,g,N
+I-14421,54,PEPPER RED 5LB BAG,40.0,g,750.0,oz,N
+I-15554,31,PEPPERS YELLOW 5LB,40.0,g,750.0,oz,N
+I-1848,4,Chicken Flat Thigh s/on,1.0,Kg,1.0,oz,Y
+I-2336,54,SPICE HERB ROSEMARY LEAF ,28.0,g,2.6,g,Y
+I-7980,58,Mustard Dijon Grainy Tub,2.5,fl oz,2.6,ml,Y
+I-1924,26,IRI SHIRO GOMA (SESAME SEEDS),5.0,g,1.0,oz,N
+I-16637,3,GYOZA PORK 12pak/cs,10.0,piece,1.0,piece,N
+I-14790,44,Olive Oil Extra virgin ,10.0,ml,1.0,ml,N
+I-15736,38,Garlic Toast Slcd par baked ,10.0,slice,1.0,slice,N
+I-14434,41,Potato yellow Med 5lb bag,80.0,g,1.0,oz,N
+I-15637,17,Whole Green Beans IQF,20.0,g,1.0,g,N
+I-4249,41,Fries Sweet Potato ,5.0,lb,1.0,oz,N
+I-1778,24,CRACKER ENTERTAINMENT ,250.0,g,1.0,g,N
+I-1821,17,APRICOTS DRIED - Whole,200.0,g,1.0,g,N
+I-1890,31,GRAPES,250.0,g,1.0,oz,N
+I-5365,6,Cheese Combo Box Domestic,1.02,Kg,1.0,g,N
+I-15785,24,Cracker Rosemary Raisin Pecan,250.0,g,1.0,g,N
+I-13816,43,BEET CANDY CANE TEEN,0.065,LBS,1.0,LBS,N
+I-5264,10,Yogurt Plain 4LTR,1000.0,g,1200.0,ml,Y
+I-18533,38,FL - Chili Garlic ,250.0,g,1650.0,g,Y
+I-2483,54,YEAST ACTIVE DRY,20.0,g,2000.0,oz,N
+I-17129,55,Boiling Water,3000.0,g,2000.0,g,N
+I-2025,58,MUSTARD DRY,0.5,g,3.0,fl oz,N
+I-2172,41,POTATO RED NUGGET,100.0,g,3.0,oz,N
+I-2207,56,SALT HI GR NON IODIZED,4.0,g,3.0,g,N
+I-5981,55,Aperol Aperitivo,6.0,L,18.0,fl oz,Y
+I-8106,51,Baby Canadian Sparkling Wine,9.0,L,18.0,fl oz,Y
+I-14776,61, Boombox Arcade PaleAle,1.0,fl oz,1.0,fl oz,N
+I-1610,38,BEETS,1.3,g,2.0,oz,N
+I-2071,35,ORANGES,0.5,ea,1.0,ea,N
+I-13676,38,Beets - Gold med,60.0,g,1.0,oz,N
+I-17990,43,BEETS Candy Cane 5lb,0.025,LBS,1.0,LBS,N
+I-17991,35,GRAPEFRUIT pink lrg 4ct ,0.25,ea,1.0,ea,N
+I-1096,31,PEACH SCHNAPPS LIQUOR,900.0,ml,18.0,fl oz,N
+I-10917,54,Mango Slushie Mix Concentrate,900.0,g,18.0,oz,N
+I-6182,55,BIB - Coca-Cola 20L,1.0,L,6.0,fl oz,N
+I-6189,55,BIB - Coke Zero 10L,1.0,L,6.0,fl oz,N
+I-6188,55,BIB -Canada Dry Ginger Ale 10L,1.0,L,6.0,fl oz,N
+I-6185,55,BIB - Nestea 20L,1.0,L,6.0,fl oz,N
+I-12929,55,BIB- Sprite 10L ,1.0,L,6.0,fl oz,N
+I-6224,55,BIB - Tonic Water 12L,1.0,L,6.0,fl oz,N
+I-2993,42,MUSHROOM ,10.0,lb,6.0,oz,N
+I-3068,42,"MUSHROOM ""PORTABELLA""*",5.0,lb,6.0,oz,N
+I-7200,42,Mushroom King Oyster,3.0,lb,6.0,oz,N
+I-1626,24,BREAD NAAN ORIGINAL INDIAN,1.0,ea,1.0,ea,N
+I-13754,58,ITEM 2019 Makhni Sauce,6.0,oz,1.0,g,N
+I-14517,25,Lijjat Papad,0.5,ea,1.0,ea,N
+I-14429,35,LIMES 5lb bag ,104.0,g,1.0,g,N
+I-13109,61,16 OZ Mixing Glass ,1.0,ea,1.2,ea,N
+I-5941,36,Broccoli Crowns,30.0,g,1.0,g,Y
+I-2327,54,SPICE CINNAMON GROUND SHAKER ,60.0,g,500.0,g,N
+I-10973,53,Spirit Bear Orca - Dark Roast,1800.0,g,270.5,g,N
+I-12210,24,Pasta Linguine Dry 10in,2.0,Kg,4.0,g,Y
+I-2093,24,PASTA PENNE RIGATE ,2.0,Kg,4.0,oz,N
+I-2086,21,PANKO (CRUMBLE),100.0,g,3.0,g,Y
+I-12921,38,EGGPLANT,1.0,ea,3.0,ea,Y
+I-8975,57,VINEGAR - CHINKIANG GOLD PLUM,500.0,ml,1500.0,ml,N
+I-11704,44,Chili Oil - Sanwu Brand Spicy,50.0,g,1500.0,g,N
+I-12132,58,Soy Sauce Tamari G/F Yamasa,600.0,ml,1500.0,fl oz,N
+I-12764,44,SESAME OIL 1.65L,300.0,g,1500.0,ml,N
+I-15369,58,G21 - Marinara Sauce,0.08,3 LTR,1.0,3 LTR,N
+I-18257,24,Flatbread oval,1.0,ea,1.0,ea,N
+I-8091,1,Salami Genoa Slcd Deli,4.0,slice,1.0,slice,N
+I-13002,3,CHORIZO CRUMBLE ,25.0,g,1.0,g,N
+I-1759,28,COCONUT MILK 17/19% MILK FAT,50.0,ml,15.0,ml,N
+I-2329,26,SPICE CUMIN SEED GROUND BOX,50.0,g,15.0,g,N
+I-5075,54,Spice Bay Leaf Whl,10.0,g,15.0,g,N
+I-5103,61,BAG CLR POLY 2LB 4X2X10IN,15.0,ea,15.0,ea,N
+I-11828,54,SO Pandan Leaf,70.0,g,15.0,g,N
+I-13038,37,PIZZAYOLO Pizza Sce ,300.0,fl oz,333.0,fl oz,Y
+I-7335,55,Tea Assam Brkfst Two Leaves,3.0,ea,4.0,ea,N
+I-2319,24,BREAD - SOURDOUGH HOMESTYLE,2.0,slice,1.0,slice,Y
+I-9028,5,ITEM GARLIC BUTTER,50.0,g,1.0,g,Y
+I-14841,6,Cheese Monterey Jalapeno SLCD,2.0,slice,1.0,slice,Y
+I-2059,44,OIL SESAME ,0.25,fl oz,1.0,ml,N
+I-1652,38,CARROTS-SNAP TOP,50.0,g,1.0,oz,N
+I-12218,3,Prosciutto Deli Slcd 198ct Frs,36.0,g,1.0,g,N
+I-14125,49,OLIVE MIX mediterranean,62.0,g,1.0,g,N
+I-14145,6,Brie Little Qualicum,33.0,g,1.0,g,N
+I-14155,6,Tipsy Jill Cheese,30.0,g,1.0,g,N
+I-13823,58,ITEM 2019 Korma Sauce,6.0,fl oz,1.0,L,N
+I-14514,6,Paneer cubed 21lb,3.0,oz,1.0,g,N
+I-8504,54,ITEM RED PEPPER HUMMUS,400.0,ml,1.0,ml,N
+I-8523,10,ITEM TZATZIKI,400.0,ml,1.0,ml,N
+I-8980,40,PICKLE SPEAR BREADED TFC,175.0,g,1.0,g,N
+I-14638,41,Perogies potato 3 chz 160ct,6.0,ea,1.0,ea,N
+I-1553,31,AVOCADOS,6.0,ea,1.5,ea,N
+I-15495,24,"Country Sourdough 5/8""",1.0,slice,1.0,slice,N
+I-1595,17,BEAN KIDNEY RED,1200.0,fl oz,548.0,ml,N
+I-1598,17,BEAN TURTLE BLK,1200.0,fl oz,548.0,ml,N
+I-2923,41,Potato Peeled,15.0,Kg,548.0,oz,N
+I-1835,11,EGG MED FREE RUN LOOSE PACK,2.0,ea,1.0,ea,N
+I-14530,31,GUACAMOLE Cal Supreme,40.0,g,1.0,oz,N
+I-5095,54,Onion Granulated powder,4.0,g,500.0,g,N
+I-1784,8,CREAM WHIPPING AEROSOL REAL CR,4.0,g,1.0,g,N
+I-7168,34,Raspberries Frozen IQF,5.0,g,1.0,g,N
+I-8857,34,ITEM BLUEBERRY COMPOTE,1.0,fl oz,1.0,ml,N
+I-15475,6,NY Cheesecake GF individual ,1.0,ea,1.0,ea,N
+I-15027,54,Tandoori Masala Powder,40.0,g,10.0,g,Y
+I-2347,40,SPICE THYME GROUND ,20.0,tsp,8.0,fl oz,N
+I-1787,24,CROISSANT JUMBO,1.0,ea,1.0,ea,N
+I-12886,3,PROSCIUTTO ,30.0,g,1.0,g,N
+I-13066,4,CHICKEN WING SPLT 10-14ct,1.0,lb,1.0,g,N
+I-6424,41,Fries Savoury Diced McCain,150.0,g,1.0,g,N
+I-1833,11,EGG BROWN LARGE FREE RUN LOOSE,10.0,ea,0.31,ea,N
+I-2171,34,RASPBERRY - FRESH,1.0,oz,1.0,oz,N
+I-4717,43,Caramel Drizzle topping,1.0,fl oz,1.0,ml,N
+I-14235,7,VANILLA ICE CREAM 4L,9.0,fl oz,1.0,ml,N
+I-2952,24,PASTA MACARONI ELBOW LRG TFC,8.0,oz,1.0,oz,N
+I-8518,8,ITEM SOUR CREAM ALFREDO,6.0,oz,1.0,g,N
+I-1978,31,MANGO CHUNK IQF ,2000.0,g,4.0,g,N
+I-15026,54,"ALLSPICE,Ground Shaker",4.0,g,4.0,g,N
+I-12303,1,BEEF CHUCK GRD FINE,10.0,lb,100.0,oz,N
+I-14432,36,Broccoli per head ,454.0,g,250.0,g,Y
+I-15025,58,SWEET SOY SAUCE ABC,3500.0,ml,4.0,ml,N
+I-13385,36,KALE 3ct,0.25,BUNCH,5.0,BUNCH,Y
+I-15066,1,G21-Meatballs,3.0,ea,1.0,ea,N
+I-1977,35,ORANGE MANDARIN SECT L/S,3.0,fl oz,1.0,ml,N
+I-4682,26,"Almonds, slivered",20.0,g,1.0,g,N
+I-8488,40,ITEM PICKLED BEET,50.0,g,1.0,g,N
+I-2320,58,SOYA SAUCE,1.0,L,4.0,fl oz,Y
+I-14789,58,SAUCE GLAZE TERIYAKI THICK,3.7,ml,4.0,ml,Y
+I-2182,25,FLOUR RICE ,450.0,g,2.0,g,N
+I-2929,22,Corn Meal,400.0,g,2.0,g,N
+I-1081,55,GRAND MARNIER,375.0,ml,13.0,fl oz,Y
+I-14146,24,GF Vegan Choc Sand Cookie,2.0,ea,1.0,ea,N
+I-9034,24,ITEM COOKED BAGUETTE,0.083,ea,1.0,ea,Y
+I-1871,42,GARI-ginger,4.0,oz,1.0,oz,N
+I-2447,54,WASABI ,20.0,g,1.0,g,N
+I-2676,32,Can Juice Apple 340ml,34.0,can,400.0,can,N
+I-4296,54,Cinnamon Stick,12.0,ea,400.0,ea,N
+I-9606,3,LAMB'S - NAVY 151 PROOF,750.0,ml,400.0,fl oz,N
+I-8250,58,Soy Sauce 8ml Peko,8.0,ea,1.0,ea,N
+I-8298,13,Shrimp Tempura 31/40,2.0,ea,1.0,ea,N
+I-14599,17,Dried Mango-Phillipine,25.0,g,1.0,g,N
+I-3181,25,Rice Vermicelli Noodle,0.15,PKG,1.0,PKG,N
+I-16224,35,LEMONS 5lb bag,0.25,ea,1.0,ea,N
+I-2057,48,OIL CANOLA HI LO BOX ,600.0,ml,2.0,ml,N
+I-2400,37,TOMATO PASTE  ,2.84,ml,2.0,ml,N
+I-9117,55,Sawmill Creek - White 16L,1.8,L,2.0,fl oz,N
+I-4199,54,STAR ANISE (WEST),50.0,g,400.0,lb,N
+I-7801,55,Sawmill Creek - Red 16L,7.5,L,400.0,fl oz,N
+I-8457,4,ITEM SOUP CHICK PEA DAHL,360.0,ml,1.0,ml,N
+I-1471,55,Kronenbourg 1664 Blanc,1.0,bottle,0.6,bottle,N
+I-9027,24,ITEM FISH BATTER DRY,400.0,g,0.6,g,N
+I-8722,24,ITEM CROUTON,100.0,ml,1.0,ml,N
+I-8489,43,ITEM HONEY SHALLOT DRESSING,50.0,ml,1.0,L,N
+I-2344,54,SPICE PEPPER BLACK WHOLE ,2.0,g,2.0,fl oz,Y
+I-3147,57,Vinegar Balsamic ,30.0,ml,2.0,ml,Y
+I-9471,54,ITEM SLICED RED PEPPER,1.0,Kg,2.0,g,Y
+I-11025,54,Item Sliced Green Pepper,1.0,Kg,2.0,g,Y
+I-4827,25,Fancy Long Grain Rice,100.0,g,200.0,g,N
+I-14208,13,FRZ SUSHI EBI 4L,1.0,ea,1.0,ea,N
+I-12353,17,BEAN CURD INARI ,1.0,piece,1.0,piece,N
+I-16649,12,SALMON Whole 10/12lb,32.0,g,4.0,g,N
+I-12350,11,ATSUYAKI TAMAGO ,500.0,g,20.0,g,N
+I-2960,12,Tuna Loins N,28.0,g,4.0,oz,N
+I-16517,12,TUNA albacore 1/4 cut,28.0,g,4.0,g,N
+I-2388,54,MIX - TEMPURA BATTER ,100.0,g,10.0,g,N
+I-16226,13,NOBASHI EBI 26-30,10.0,ea,10.0,ea,N
+I-2951,54,SPICE PEPPER BLACK FINE 540G,62.0,mg,0.5,g,Y
+I-1651,38,CARROT IQF ,1.0,Kg,10.0,g,N
+I-5254,38,Fresh Lemongrass,125.0,g,10.0,g,N
+I-5761,58,Paste - Curry Yellow Thai,800.0,g,10.0,g,N
+I-11829,54,SO Lime Leaf,12.0,g,10.0,g,N
+I-17494,59,Coconut Milk - Success ,7.2,L,10.0,ml,N
+I-2366,43,SUGAR GOLDEN YEL,200.0,g,4.7,g,N
+I-14511,35,JACK FRUIT ,6.1,Kg,4.7,g,N
+I-13499,38,JUMBO CARROT,15.0,g,1.0,g,N
+I-2498,31,ZUCCHINI GREEN,1.0,Kg,1.0,oz,N
+I-14484,9,MILK-3.25% 4L jug,0.5,gal,2250.0,fl oz,N
+I-2176,40,RELISH GREEN ZESTY,1.4,L,8.0,ml,N
+I-2243,58,SAUCE WORCESTERSHIRE 5Z,70.0,ml,8.0,ml,N
+I-4290,58,Mustard Yellow Bulk,700.0,ml,8.0,ml,N
+I-8336,4,ITEM Roasted Teryaki Chicken,80.0,g,1.0,g,N
+I-2032,61,NAPKIN DISP 1PLY INTERFOLD KRA,2.0,ea,1.0,ea,N
+I-11233,61,"9"" Bamboo Chopstick - GNE",1.0,ea,1.0,ea,N
+I-15596,61,Sushi tray fibre #4,1.0,ea,1.0,ea,N
+I-15597,61,LID Sushi tray #4,1.0,ea,1.0,ea,N
+I-15272,13,Kamaboko Surimi Shred OW,4.54,Kg,5.85,oz,N
+I-12333,6,CHEESE CREAM REG ,450.0,g,12.0,g,N
+I-4238,12,Masago Ocean Wise ,2.0,g,1.0,g,N
+I-8602,44,ITEM CONFIT GARLIC IN OIL,1.0,L,4.0,ml,N
+I-13785,12,Smoked Sockeye Side-Calypso,20.0,g,1.0,g,N
+I-2967,54,Spice Coriander Shaker,35.0,g,880.0,g,N
+I-4064,26,Spice Fennel Seeds,10.0,g,880.0,fl oz,N
+I-2375,25,RICE SUSHI SHIRAKIKU CALROSE,2.9,1 KG,58.0,1 KG,N
+I-2482,41,Yams Jumbo,20.0,g,1.0,oz,N
+I-2024,58,MUSTARD DIJON STRONG SEAL TOP,360.0,ml,2.0,ml,N
+I-2986,30,Soy Milk Barista Blend,500.0,ml,2.0,fl oz,N
+I-11514,38,ITEM GRATED CARROT,2.0,oz,1.0,g,N
+I-13382,38,BEETS 5LB bag ,2.0,oz,1.0,oz,N
+I-1052,55,BACARDI LIGHT RUM ,200.0,ml,18.5,fl oz,Y
+I-1945,55,JUICE PINEAPPLE CAN,350.0,ml,18.5,ml,Y
+I-4825,32,smirnoff green apple,200.0,ml,18.5,fl oz,Y
+I-5960,55,St Remy Brandy,150.0,ml,18.5,fl oz,Y
+I-1869,57,VINEGAR FUJI ,20.0,L,40.0,fl oz,N
+I-3251,17,Dashi Kombu dried kelp,3.0,oz,40.0,oz,N
+I-1093,55,MALIBU liquor,375.0,ml,18.0,fl oz,Y
+I-1109,55,Meagher's Triple Sec,375.0,ml,18.0,fl oz,Y
+I-16461,31,Apricot Brandy 375mL,375.0,ml,18.0,fl oz,Y
+I-16601,55,Sawmill Creek -Rose 4L,8.0,L,18.0,fl oz,Y
+I-2586,61,CO2 Tank,0.005,tank,1.0,tank,N
+I-9186,61,"9""x6 1/8"" NAT HINGED CONTAINER",1.0,ea,1.0,ea,N
+I-14843,54,PieR Item Wild Mushroom Mix,2.0,oz,1.0,g,N
+I-2432,40,VEG BURGER GARDEN 4Z,1.0,ea,1.0,ea,N
+I-17977,4,CHICKEN wing split ,14.0,oz,1.0,oz,Y

@@ -211,27 +211,242 @@ P-55707,PREP|Quiche|Pork belly,1,PTN,,185,g
 P-55709,PREP|Quiche|spinach,1,PTN,,185,g
 P-62293,PREP|Quiche|sundried tom,1,PTN,,185,g
 P-62023,GZA|Sushi Cucumber maki roll,1,ROLL,SUSHI,155,g
-P-54581,SLICE|Multigrain Bread,22.0,slice,,38,g
-P-50511,TOASTED|French Toast,1.0,each,,65,g
-P-32729,BAKED|Warm Baguette,4.0,each,ZDONT USE OK - PREP,340,g
-P-65742,PREP|Potstickers (3),1.0,each,PREP,81,g
-P-56612,PREP|Almonds are forever|TST,2.00,ea,,142.0,g
-P-43206,BATCH| SMOOTHIE| Mango|16oz,4.000,PTN,,453.592,g
-P-62306,COOKED|Eggs|Hardboiled,30.000,each,,1500.0,g
-P-54358,GR|Smoothie|PeachyKeen|Prep=3,3.000,each,,510.9,g
-P-32151,PREP|Sliced Roma Tomato,20.000,slice,,300.0,g
-P-51511,SLICED|Cucumber,200.000,slice,,2836,g
-P-53977,YIELD|Buttermilk Pancake,48.000,ea,,1700.97,g
-P-62283,YIELD|Focaccia|NEW,24.000,PTN,,1368,g
-P-64905,YIELD|Marble Rye,15.000,slice,,720.0,g
-P-64904,YIELD|Multigrain Bagel,6.000,piece,,630.0,g
-P-64902,YIELD|Sourdough clubhouse 5/8,20.000,slice,,1000.0,g
-P-67674,BAKED|Loaded Sweet Potatoes,6.0,each,,780.0,g
-P-68187,BATCH|Hashbrown Omelete Bite,9.000,each,,120.0,g
-P-68139,COOKED|Beyond Bratwurst,50.000,each,,5000.0,g
-P-44571,GARNISH|Nice Wok,1.000,PTN,,5443.11,g
-P-67553,BATCH|3 Bean Flautas,60.000,each,,4260.0,g
-P-68103,BATCH|Crispy Tostada shell,50.000,each,,1200.0,g
-P-66019,YIELD|French Baguette,4.000,piece,,1000.0,g
-P-67284,BAKED|Russet Potato,100.000,each,,17000.0,g
-P-64887,YIELD|Beef Meatballs,160.000,each,,13600.0,g
+P-54581,SLICE|Multigrain Bread,22,slice,,38,g
+P-50511,TOASTED|French Toast,1,each,,65,g
+P-32729,BAKED|Warm Baguette,4,each,ZDONT USE OK - PREP,340,g
+P-65742,PREP|Potstickers (3),1,each,PREP,81,g
+P-56612,PREP|Almonds are forever|TST,2,ea,,142,g
+P-43206,BATCH| SMOOTHIE| Mango|16oz,4,PTN,,453.592,g
+P-62306,COOKED|Eggs|Hardboiled,30,each,,1500,g
+P-54358,GR|Smoothie|PeachyKeen|Prep=3,3,each,,510.9,g
+P-32151,PREP|Sliced Roma Tomato,20,slice,,300,g
+P-51511,SLICED|Cucumber,200,slice,,2836,g
+P-53977,YIELD|Buttermilk Pancake,48,ea,,1700.97,g
+P-62283,YIELD|Focaccia|NEW,24,PTN,,1368,g
+P-64905,YIELD|Marble Rye,15,slice,,720,g
+P-64904,YIELD|Multigrain Bagel,6,piece,,630,g
+P-64902,YIELD|Sourdough clubhouse 5/8,20,slice,,1000,g
+P-67674,BAKED|Loaded Sweet Potatoes,6,each,,780,g
+P-68187,BATCH|Hashbrown Omelete Bite,9,each,,120,g
+P-68139,COOKED|Beyond Bratwurst,50,each,,5000,g
+P-44571,GARNISH|Nice Wok,1,PTN,,5443.11,g
+P-67553,BATCH|3 Bean Flautas,60,each,,4260,g
+P-68103,BATCH|Crispy Tostada shell,50,each,,1200,g
+P-66019,YIELD|French Baguette,4,piece,,1000,g
+P-67284,BAKED|Russet Potato,100,each,,17000,g
+P-64887,YIELD|Beef Meatballs,160,each,,13600,g
+P-61009,ALF|Flatbread|Brisket,1,un,,309.01,g
+P-50502,BAKED|Meatball,310,each,PREP,11160,g
+P-54785,BAKED|Puff Pastry Tart,6,each,,168,g
+P-49184,BAKED|Tofu|Almond Butter,4,PTN,,888,g
+P-29020,BATCH|SMOOTHIE|Wild Berry|16oz,4,PTN,,118.294,ml
+P-53754,BATCH|Whole Wheat Pita,15,each,,960,g
+P-43663,BOWL|Cereal Breakfast Large ,3,PTN,,168,g
+P-43661,BOWL|Cereal Breakfast Small ,3,PTN,,84,g
+P-50379,BREADED|Cornmeal Catfish,1,CT,,78,g
+P-32310,BS Xmas Cookies Shortbread 6ea,1,PAK 6,BAKED GOODS,72,g
+P-46861,BUNS|Toasted slider hot dog,12,each,,528,g
+P-49181,CHILI|B-Nut Squash & Chipotle,4,PTN,,1920,g
+P-13326,CK- XMAS SHORTBREAD,25,ea,,300,g
+P-49178,COOKED|Mushroom|DSSTO,9,PTN,,108,g
+P-56329,COOKED|Potato|Pave,36,each,,1908,g
+P-47814,COOKED|Salmon|Phyllo,1,ea,,227,g
+P-55583,COOKED|Tamales|Meat,25,each,,3550,g
+P-55638,COOKED|Tamales|Mushroom,25,each,,3550,g
+P-61132,DES|Bar|Tiger Brownie,1,slice,BAKING-RAW INGREDIENTS,50,g
+P-61133,DES|Bar|Triple Berry Crumble,1,slice,BAKING-RAW INGREDIENTS,45,g
+P-60927,DES|Cake|Chocolate Layer,1,slice,BAKED GOODS,109,g
+P-58285,DES|Cake|Slice Assorted,1,PTN,BAKED GOODS,1200,g
+P-33038,DES|Jello|Asst.,240,PTN,BAKED GOODS,32400,g
+P-58297,DES|Pie|Asst Slice,1,PTN,BAKED GOODS,125,g
+P-58286,DES|Square|Asst Whole,1,PTN,BAKED GOODS,114,g
+P-56302,DESSERT|Posset,60,each,,8220,ml
+P-49177,FILLING|Shepherd's Pie|DSSTO,9,PTN,,4203,g
+P-58289,FRUIT|Canteloupe|1/4 cut.,1,PTN,PREP,138,g
+P-60855,G&G|Samosa|Assorted,1,each,PREP,100,g
+P-26072,GRILLED|Scallions,1,ea,ZDONT USE OK - PREP,19,g
+P-56412,HS| Chicken pot pie  ,8,PIE,,3336,g
+P-55173,HS|White Bean Pot Pie|Test,1,ea,ZDONT USE OK - PREP,302,g
+P-53893,Main|Beef Roulade|POPRS,280,piece,,72240,g
+P-53889,Main|Vegan cabage roll|POPRS,76,piece,,19684,g
+P-43438,MARINATED|Filipino Pork,100,each,,6300,g
+P-26455,OK - Roasted Acorn Squash,10,ea,ZDONT USE OK - PREP,20500,g
+P-56335,PASTA|Chicken Macaroni,16,each,,3632,g
+P-54960,POP|Crepe|MR,1,CT,,64,g
+P-61118,POP|Egg|Batter,6,PTN,,300,g
+P-55404,POP|House Salad|TAM,100,each,,17000,g
+P-61131,POP|Marinated|Halloumi,10,PTN,,280,g
+P-55403,POP|Meetballs|TAM,120,each,,3390,g
+P-54916,POP|RootVegStrudel|MR,1,each,,117,g
+P-54774,POP|Torte Salad|SZ,1,each,,85,g
+P-53822,POPUP|Crust ,12,ea,,636,g
+P-54562,POPUP|Red Wine Poached Pears,20,each,,1100,g
+P-54787,POPUP|Tart|Bolognese,10,each,,1170,g
+P-53898,PORTION|Acorn Squash Bowl|POP,40,piece,,19840,g
+P-60503,POTPIE|Beef & Mushroom,1,PTN,,283,g
+P-57968,RATIO|Sandwich|FLX,6,un,,1260,g
+P-49276,SALAD|Beet & Greens|DSSTO,6,PTN,,1554,g
+P-54200,SAUTE|Chili Garlic Beef,1,Batch,,249,g
+P-54199,SAUTE|Spinach,1,Batch,,180,g
+P-28341,SIDE|Corn on the Cob,96,each,ZDONT USE OK - PREP,9888,g
+P-68710,SKEWER|Harissa Chicken,50,each,PREP,10100,g
+P-68708,SKEWER|Thai Chicken,50,each,PREP,10100,g
+P-56234,SQR| Bean Enchilada ,1,PTN,,144,g
+P-56224,SQR| Chicken Enchilada ptn,1,PTN,,122,g
+P-61083,SQR|Built beef pie|popRS,1,CT,,496,g
+P-61082,SQR|Built black bean pie|popRS,1,CT,,496,g
+P-61081,SQR|Built Moroccan Pie|popRS,1,CT,,496,g
+P-26183,SQR|Jalapeno|Corn Bread,40,PTN,ZDONT USE OK - PREP,2600,g
+P-53737,SQR|Lamb Kibbeh|POP,10,each,,420,g
+P-56096,TACO|Black Bean and Hominy,1,each,,179,g
+P-56081,TACO|Pulled Pork,1,each,,118,g
+P-65534,TIRAMISU|Pumpkin Gingersnap,12,ea,,2088,g
+P-45430,Toast Bar - Bread Portion,14,ea,,1358,g
+P-45429,Toast Bar - Spread,1,each,,475,ml
+P-45431,Toast Bar - Toppings,1,each,,283,g
+P-46594,VEG|Refried Bean Taco,1,each,,179,g
+P-61076,YEILD|turnip,0.85,CT,,102,g
+P-58310,YIELD|Multigrain Loaf|Slice,18,slice,,468,g
+P-50657,YIELD|Tomato Vine On|Slice,14,slice,,658,g
+P-58309,YIELD|Whole Wheat Loaf|Slice,18,slice,,396,g
+P-70055,BASIC|Egg Omelette|AAD,1,each,,178,g
+P-44724,BASIC|Omelett|Egg White,1,each,,163,g
+P-47328,BBQ|salmon ,140,PTN,,31780,g
+P-47705,BC Mushroom Quinoa Bowl,1,each,,422,g
+P-46644,BVSTO - Fire Roasted Corn,96,PTN,,14592,g
+P-46643,BVSTO|Salmon (Brined&Smoked),50,PTN,,4250,g
+P-40627,Caliente-Quinoa Enchilada,15,PTN,PREP,3825,g
+P-14135,Cheese White Cheddar Sliced,2,slice,,40,g
+P-7137,COOKED|Drumsticks Halal,350,piece,,31850,g
+P-36899,COOKED|kuttera rst|SL,10,ea,SEAFOOD,2270,g
+P-70984,COOKED|Pate brisee pastry lid,24,ea,,3696,g
+P-50773,COOKED|Pork chop Cajun,12,CT,,1884,g
+P-40886,Delish-Vegan Chocolate Mousse,10,PTN,,1180,g
+P-69721,DES|Bar|Apple Crumble,1,slice,BAKING-RAW INGREDIENTS,25,g
+P-69723,DES|Cake|Carrot,1,slice,BAKING-RAW INGREDIENTS,173,g
+P-69719,DES|Cake|German Chocolate,1,slice,BAKING-RAW INGREDIENTS,109,g
+P-69720,DES|Cake|Maple Mania,1,slice,BAKING-RAW INGREDIENTS,109,g
+P-52950,DESSERT|Baked Yogurt|BBC,15,each,,2550,g
+P-13019,FF-Cornbread Jalapeno Ched,24,ea,PREP,744,g
+P-39031,FF|Bowl|Thai Coconut DONTUSE,1,PTN,,422,g
+P-53784,FNH|apple crumble|EACH,6,each,,846,g
+P-53606,G&G|Ed Peach Pie,1,PIE,,1300,g
+P-54796,G&G|Mini Choc Cake|Uncle Ed,70,each,,10780,g
+P-64432,G&G|Nutella Brownie|Uncle Ed,24,each,,1200,g
+P-53370,G&G|Uncle Ed Apple Pie,1,PIE,,1000,g
+P-53379,G&G|Uncle Ed Apple Rhub Crisp,1,SHEET,,141,g
+P-53804,G&G|Uncle Ed's BC Pie,12,piece,,1464,g
+P-47966,Gyaza-Sushi Avocado Roll (12pc,1,pak,SUSHI,1800,g
+P-46069,HCMG-Bnna Almnd Buttr Bulk,40,each,,14600,g
+P-46075,HCMG-Breakfast Yorkies Prep,30,each,,2580,g
+P-46072,HCMG-Chutney-Apple Raisin,24,PTN,,1464,g
+P-46080,HCMG-Fruit Salad,33,PTN,,5346,g
+P-46071,HCMG-Pancakes-Oat and Apple,30,each,,2430,g
+P-44386,Moroccan lamb stew,80,PTN,PREP,20160,g
+P-44727,Omelette- Whole Egg-Basic,1,each,,59.33,g
+P-47051,Pop-up Oyster pan fried,3,each,,44,g
+P-46877,Pop-up- Oysters- Breaded,12,ea,,136.8,g
+P-66125,POP|Veg Empanada|Ed,1,CT,,222,g
+P-46947,PREP|Arancini balls,1,each,,28,g
+P-56119,PREP|Bread Pudding|SPEC,22,slice,,4400,g
+P-70079,PREP|Spanish pie,12,piece,,240,g
+P-50646,SAND|Panini|SP,1,un,,254,g
+P-55574,SAUCE|Blue cheese|SPEC,100,CT,PREP,4300,g
+P-38127,SCONE ASST CK,1,ea,PRODUCTION FOOD,115,g
+P-47776,SMOOTHIE|Apple Cinnamon,4,ea,,824,g
+P-47859,SMOOTHIE|Hardware,1,ea,,210,g
+P-49572,SMOOTHIE|Shamrock,1,ea,,202,g
+P-53334,SP|apple pie,6,each,,6000,g
+P-39022,Supercrunch Salad,5,PTN,,1100,g
+P-44689,TOPPING|Avocado Egg,2,ea,,254,g
+P-65630,AQlCreme Caramel,6,PTN,,918,g
+P-65591,AQlSalmon Miso,1,piece,,227,g
+P-71855,BAKED|Basil puff pastry,300,each,,16200,g
+P-56953,BATCH|Bannock AR,12,each,,2268,g
+P-71427,BATCH|Beef Sausage roll,60,each,,4560,g
+P-71581,BATCH|Chapati|VEGAN,8,each,PREP,320,g
+P-56765,BATCH|Crispy Kale|MC,1,Batch,,130,g
+P-71590,BATCH|Focaccia Bread Sticks,90,each,,5130,g
+P-67530,BATCH|Mexican Lasagna,16,each,,4032,g
+P-39328,BATCH|Pancake|Pumpkin Spice,24,ea,,960,g
+P-70990,BATCH|Spiced French Toast,18,each,,1512,g
+P-70120,BATCHIVegan Pumpkin Blondies,600,ea,,15000,g
+P-65595,BATCHlMarinated Tofu,3,PTN,,240,g
+P-70968,BERKIPOPIMUSHRISOTTO,1,PTN,,591,g
+P-22287,BEV MILK ALMOND CHOCOLATE,1,PTN,,946,ml
+P-22288,BEV MILK ALMOND ORIGINAL,1,PTN,,946,ml
+P-26798,BRK|Pancake Blueberry,48,ea,,1824,g
+P-56063,C19|Mac Chz mix,48,PTN,,3360,g
+P-56064,C19|Spinach Salad,1,PTN,,170,g
+P-71464,COOKED|Beef Souvlaki|SKEWER,120,each,,25200,g
+P-54703,COOKED|Chicken Souvlaki skewer,120,each,,24240,g
+P-55813,COOKED|Salmon PTN,140,PTN,,31780,g
+P-43857,COST|Ham,1,slice,,42,g
+P-43858,COST|Turkey,2,slice,PREP,56,g
+P-29255,DESSERT|Bread Pudding|STOLW,20,PTN,PREP,4000,g
+P-24027,Flax Seed bread -Slices,24,slice,,960,g
+P-47268,FLEX|Marinated Olives (PTN),1,PTN,,30,g
+P-50918,FLEXlTeppanyaki Beef,1,PTN,,246,g
+P-64754,FNH Funfetti cake|BUTTER CREAM,200,PTN,,21800,g
+P-64753,FNH|Funfetti Cake,220,PTN,,13400,g
+P-45695,G&G-Pudding Mango,1,ea,BAKED GOODS,191,g
+P-36698,G&G|HMR| Chickpea Curry,1,ea,CK - FOOD,260,g
+P-14695,G&G|Sandwich|Italian ,1,ea,,223,g
+P-50782,GARNISH|Orange Segments,3,slice,,52.5,g
+P-71709,GRILLED|Pita Bread,50,each,,3000,g
+P-62906,GRL|Quiche| 3 Cheese,1,each,,21,g
+P-62907,GRL|Quiche|Bacon&Onion,1,each,,21,g
+P-27388,HMS - Pork  Schnitzel,1,PTN,PREP,214,g
+P-44445,HS|Pie|Tourtierre - PTN,1,PTN,,124,g
+P-27488,INT - Grilled Focaccia,48,PTN,,5472,g
+P-67132,JPOP/ Vegan Meringue,10,piece,,220,g
+P-37632,MAG SIGNATURE SALAD,1,ea,,170,g
+P-55041,PAN|L-Chilled|Eat The Rainbow,6,PTN,,978,g
+P-55043,PAN|L-Chilled|Thai Buddah,6,PTN,,2718,g
+P-32155,PAN|Sandwich|Smashed Chick Pea,1,ea,,285,g
+P-71166,Panko Crusted Aubergine/Jpop,100,slice,,5500,g
+P-13471,Pantry-Fruit/Berry Platter LRG,1,ea,,400,g
+P-13469,Pantry-Vegetable Platter LRG,1,ea,,500,g
+P-53944,PIZZETTES|Assorted|FORMAL,150,each,,19500,g
+P-65363,POP|Kutsinta|JA,12,each,,900,g
+P-54707,POP2|Chocolate Tart,40,piece,,5880,g
+P-24696,PREP|Tomato slice-Yield,7,slice,,420,g
+P-51219,PTN|Quiche|Denver,1,PTN,,134,g
+P-51220,PTN|Quiche|Ham & Cheese,1,PTN,,202,g
+P-42892,PTN|Quiche|Spinach Feta,1,each,,164,g
+P-26806,PTNlQuiche|Western,1,PTN,,192,g
+P-52038,S&SlRamen Poached Egg,1,each,,50,g
+P-53920,SALAD|Wedge Canape|FORMAL,12,each,,348,g
+P-49175,SALAD|Winter Beet & Pomegranat,6,PTN,,1554,g
+P-43343,SALADlFattoush,1,CT,,120,g
+P-64893,SMOOTHIE|Holiday Almond Nog,1,PTN,,1400,ml
+P-38200,SOUP|Veggie Congee,8,PTN,,2016,g
+P-47449,SPC18 - Cran/Apple Crumble,72,PTN,,10152,g
+P-22035,TP - DESSERT BAR APPLE CRUMBLE,1,slice,BAKING-RAW INGREDIENTS,25,g
+P-22028,TP - DESSERT BAR BUTTER TART,1,slice,BAKING-RAW INGREDIENTS,85,g
+P-22045,TP - DESSERT BAR LEMON CRUNCH,1,slice,BAKING-RAW INGREDIENTS,38,g
+P-22047,TP - DESSERT BAR MIXED BERRY,1,slice,BAKING-RAW INGREDIENTS,52,g
+P-32073,TP - DESSERT BUTTER TART,1,ea,BAKING-RAW INGREDIENTS,63,g
+P-22036,TP - DESSERT CAKE BLACK VELVET,1,slice,BAKING-RAW INGREDIENTS,109,g
+P-22031,TP - DESSERT CAKE BROWNIE BOMB,1,slice,BAKING-RAW INGREDIENTS,137,g
+P-22043,TP - DESSERT CAKE CHEESECAKE ,1,slice,BAKING-RAW INGREDIENTS,125,g
+P-22046,TP - DESSERT CAKE MAPLE CHOCO ,1,slice,BAKING-RAW INGREDIENTS,109,g
+P-22034,TP - DESSERT CAKE ORANGE CREAM,1,slice,BAKING-RAW INGREDIENTS,118,g
+P-22040,TP - DESSERT CAKE TRIPLE CHOCO,1,slice,BAKING-RAW INGREDIENTS,109,g
+P-22044,TP - DESSERT CAKE TRIPLE TIGER,1,slice,BAKING-RAW INGREDIENTS,174,g
+P-22041,TP - DESSERT CAKE VANILLA BEAN,1,slice,BAKING-RAW INGREDIENTS,67,g
+P-22050,TP - DESSERT ECLAIR CHOCOLATE,1,ea,BAKING-RAW INGREDIENTS,102,g
+P-22308,TP - DESSERT JELLO ASST,60,PTN,BAKED GOODS,10680,g
+P-22051,TP - DESSERT PIE APPLE,1,slice,BAKING-RAW INGREDIENTS,125,g
+P-22052,TP - DESSERT PIE BLUEBERRY,1,slice,BAKING-RAW INGREDIENTS,147,g
+P-22054,TP - DESSERT PIE CHERRY,1,slice,BAKING-RAW INGREDIENTS,180,g
+P-22057,TP - DESSERT PIE LEMON MERINGE,1,slice,BAKING-RAW INGREDIENTS,146,g
+P-22058,TP - DESSERT PIE PECAN,1,slice,BAKING-RAW INGREDIENTS,122,g
+P-22059,TP - DESSERT PIE PUMPKIN,1,slice,BAKING-RAW INGREDIENTS,133,g
+P-22060,TP - DESSERT PIE STRAW RHUBARB,1,slice,BAKING-RAW INGREDIENTS,150,g
+P-13445,WES-Watermelon Yield,6,piece,,1716,g
+P-71329,YIELD|Breaded Chicken Burger,44,each,,6688,g
+P-62067,YIELD|Gluten Free white loaf,12,slice,,300,g
+P-70682,YIELD|Hot dog Plant Based,60,each,,8580,g
+P-64994,YIELD|Marble Rye Sandwich,15,slice,,480,g
+P-71666,YIELD|White Clubhouse Bread,20,slice,,740,g
